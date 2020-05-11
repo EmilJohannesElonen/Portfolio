@@ -1,0 +1,83 @@
+TETRIS PELI, EMIL ELONEN, 275585 
+
+
+
+KÄYTTÖOHJEET
+
+
+SÄÄNNÖT:
+
+Pelin tarkoituksena on pinota ylhäältä tippuvia erimuotoisia palikoita (tetrominoja) siten, että ne eivät täytä pelialuetta. Jos uutta tetrominoa ei saa asetettua pelialueelle siten, että sen yläreuna ei jäisi pelialueen ulkopuolelle tai uutta tetrominoa ei mahduta pudottamaan pelialueelle, päättyy peli. Jos tetromioilla onnistuu täyttämään kokonaisen vaakarivin, poistuu kyseinen täysi rivi ja sen yläpuolella olleet tetrominot putoavat rivin verran alaspäin. Tetrominoita ei voi asettaa päällekkäin, eikä niitä voida sijoittaa pelialueen ulkopuolelle mistään suunnasta. Tetrominoja voi kiertää pelialueen sisällä portaittain 90 asteen välein. Putoavan tetrominon voi ottaa pitoon, jonka jälkeen sen voi vapauttaa myöhemmin peliin jolloin se korvaa seuraavaksi vuorossa olevan tetrominon. Juuri vapautettua tetrominoa ei voi ottaa välittömästi uudelleen pitoon.
+
+
+PELIN ULKOASU:
+
+Peli-ikkunan vasemmalla puolella on pelialue, johon tetrominot putoavat. Tämän yläpuolella ovat alueet joista pelaaja voi nähdä seuraavan vuorossa olevan tetrominon sekä pidossa olevan tetrominon. Ikkunan oikealla puolella näkyy yläkulmassa pelaajan senhetkinen pistetilanne, vaikeustaso sekä kulunut aika. Näisen alla on painonapit pelin aloittamiseen, keskeyttämiseen sekä jatkamiseen, ja tekstikenttä käyttäjänimen syöttämiseen. Näiden alapuolella on pelin vaikeustason valitsimet sekä huipputuloksia esittävä lista.   
+
+
+TETROMINON OHJAAMINEN:
+
+Tetrominon ohjaaminen sivusuunnassa toimii A- (oikea) ja D- (vasen) näppäinten avulla. S-näppäimellä tetrominon voi pudottaa nopeammin alas joko yhden askeleen verran (kertapainallus) tai useamman (pohjassa pitäminen). Tetrominon kiertäminen tapahtuu W-näppäimellä (myötäpäivään) tai LeftShift-näppäimellä (vastapäivään). Putoavan tetrominon voi ottaa pitoon Space-näppäimellä (välilyönti), ja pidossa olevan tetrominon vapauttaminen tapahtuu samalla näppäimellä. Tetrominoa pystyy liikuttamaan pelalueella niin kauan, kunnes se ei voi tippua enään alemmas ja uusi tetromino on ehditty tiputtaa. Muita pelin toimintoja (pelin aloittaminen, keskyttäminen, jatkaminen ja sulkeminen, käyttäjänimen syöttäminen) voi käyttää graafisesta käyttöliittymästä vastaavasta painonapista/tekstikentästä. 
+Pelissä on mahdollisuus valita vaikeustasoksi helppo (easy), keskitaso (medium), vaikea (hard), tai vaikeutuva (progressive). Vaikeustaso vaikuttaa ainoastaan tetrominojen putoamisnopeuteen. Valittaessa vaikeutuva, alkaa pelin vaikeus tasolta 1, ja vaikenee pelin edetessä saavuttaen potentiaalisesti maksimitason 10. 
+
+
+PISTEIDENLASKU:
+
+Jokaisesta täydestä vaakarivista pelaaja saa 10 pistettä. Jos pelaaja onnistuu saamaan useampia täysiä rivejä yksittäisen tetrominon asettamisella, saa hän lisäpisteitä seuraavanlaisesti: kahdesta rivistä 10p, kolmesta rivistä 20p, neljästä rivistä 40p. 
+
+
+MUUTA HUOMIOITAVAA:
+
+Käyttäjänimen sekä vaikeustason valitseminen pitää tehdä ennen pelin aloittamista. Jo aloitettu peli on pelattava loppuun saakka ennen kuin käyttäjänimeä tai vaikeustasoa voidaan muuttaa. Jos käyttäjänimen jättää tyhjäksi, tallentuu pelaajan mahdollinen huipputulos nimimerkille "GUEST". Jos kahdella eri käyttäjänimellä on saavutettu sama huipputulos, esiintyvät tulokset käyttäjänimien mukaisessa aakkosjärjestyksessä tulostaululla.
+
+
+
+
+
+OHJELMAN RAKENNE JA SUUNNITTELU 
+
+
+SUUNNITTELU- JA KEHITYSPROSESSI:
+
+Ohjelman kehitys alkoi yksittäisen neliön liikutuksen toteutuksella. Oleellisinta oli löytää tehokas ja riittävän yksinkertainen tapa tutkia onko tiettyyn suuntaan liikuttaminen (koordinaattimuutos) mahdollinen. Tämän jälkeen peliä pystyi jo pelaamaan hyvin yksinkertaisella tasolla. Seuraavaksi piti kehittää tapa luoda erimuotoisia ja -värisiä tetrominoja satunnaisgeneraattorin avulla. Sama liikkumisen mahdollisuuden tutkiminen sopi myös nyt, kunhan tutkiminen tehdään tetrominon jokaiselle neliölle. Tästä oli myös mahdollista johtaa tapa tuktia onko peli hävitty tetrominon asettamisen jälkeen. Tetrominojen kiertäminen oli loppupeleissä melko yksinkertaista toetuttaa, kunhan sai johdettua neliöiden koordinaattimuutoksille kaavan jotai pystyi käyttää jokaiselle eri muodolle. Alussa kehitetty liikkumisen mahdollisuus-funktio näytti tässäkin kohtaa monimuotoisuutensa eri käyttökohteissa. Nyt pelimekaniikka oli saatu hyvälle tasolle. Käyttöliittymän luominen oli pitkälti elementtien lisäilyä ja konfiguroimista. Täysien vaakarivien tutkiminen ja poisto oli yksi monimutkaisimmista osioista, joka usen eri tyylin kokeilun jälkeen onnistui melko hyvin sekä tehokkaasti. Rivien poisto tapahtuu nyt animaatiolla, joka on saanut inspiraation klassisesta Nintendo Entertainment Systeemin Tetris-versiosta. Tässä vaiheessa alkoi lisäominaisuuksien lisääminen ohjelmaan. Seuraavaksi vuorossa olevan tetrominon näyttö oli yksinkertaista toteuttaa, ja tetrominojen pitoon laittaminenkin onnistui pienen yrittämisen jälkeen. Huipputuloksien tallentaminen antoi tarpeessa olleen kertauksen tiedostojen käsittelyyn.
+
+
+OHJELMAN TALLENTAMAT TIEDOT:
+
+Pelin aikana ohjelma tallentaa tietoa asetetuista pelikoista, varatuista koordinaatiesta, pelaajan pisteistä, pelaajan käyttämästä ajasta, pudotettujen tetrominojen määrästä sekä huipputuloksista sopiviin tietorakenteisiin. Varatut koordinaatit ja asetetut palikat tallennetaan std::map<y-koordinaatti,std::vector<x-koordinaatti>> rakenteeseen mahdollisimman tehokkaan pelialueen hallinnan saavuttamiseksi. Kyseisessä toteutustavassa säiliön alkioita joudutaan käymään läpi vähemmän kuin vastaavassa vektoritoteutuksessa tms. 
+
+
+HUIPPUTULOKSIEN TALLENNUS:
+
+Ohjelma lukee ja tallentaa huipputulokset käyttäen tiedostoa nimeltä "leaderboard.txt". Kyseisen tiedoston tulee löytyä projektihakemistosta. Jos ohjelma ei löydä tiedostoa, luo se sellaisen käynnistyessään. Tiedostossa tulokset ovat tallennettuna muodossa "järjestysnumero;käyttäjänimi;pisteet". Järjestysnumeron ja pisteiden tulee olla kokonaisluku, ja järjestysnumeron pitää olla välillä 1-5. Jos rivi ei täytä vaadittavia ehtoja, ei ohjelma hyödynnä sitä. Mahdolliset puuttuvat rivit ohjelma tulkitsee tyhjäksi, ja järjestelee huipputulokset asianmukaisesti. Joka pelin jälkeen peli luo uuden tiedoston johon se tallentaa huipputulokset. Mahdollinen vanha tiedosto poistetaan ja uusi tiedosto nimetään "leaderboard.txt". Ohjelma tulostaa vain käyttäjänimiä joissa on alle 5 merkkiä. Jos tiedoston nimessä on enemmän, käyttää ohjelma vain 5 ensimmäistä. 
+
+
+TOTEUTETUT LISÄOMINAISUUDET:
+
+-Peliin on toteutettu kaikki seitsemän erilaista tetrominoa.
+
+-Putoavia tetrominoja pystyy kääntämään 90 astetta kumpaankin suuntaan.
+
+-Pysähtynyttä tetromioa pystyy liikuttamaan sivusuunnassa kunhan se on mahdollista ja seuraavaa tetromioa ei ole vielä pudotettu pelialueelle.
+
+-Täydet vaakarivit poistetaan
+
+-Pelissä käytetty aika lasketaan. Aika on näkyvissä pelin aikana ja se kerrotaan pelaajalle pelin loputtua.
+
+-Pelissä on pistelasku, ja tulos on näkyvissä pelin aikana sekä se myös ilmoitetaan pelaajalle pelin päätyttyä. Pisteitä saa sitä enemmän mitä useamman vaakarivin saa poistettua kerralla.
+
+-Pelissä on erilaisia vaikeustasoja. Vaikeustaso vaikuttaa tetrominon putoamisnopeuteen.
+
+-Tetrominojen putoamisnopeus kasvaa pelin edetessä (Progressive-vaikeustaso)
+
+-Pelin päätyttyä pelitilanteen voi asettaa alkutilanteeseen ja uuden pelin voi aloittaa
+
+-Peli sisältää tulostaulun jossa näkyvät 5 parasta tulosta. Pelaaja voi halutessaan antaa nimensä pelin alussa ja tulokset tallentuvat pelistä toiseen. 
+
+-Pelialueella on näkyvissä seuraavaksi vuorossa oleva tetromino
+
+-Pelissä on pitotoiminto, jolla putoava tetromino voidaan ottaa pitoon ja vapauttaa myöhemmin peliin
+
+
+
+
