@@ -1,0 +1,5024 @@
+PVM: 03.11.2010   PÄÄTÖSKURSSI: 7,91
+
+PVM: 04.11.2010   PÄÄTÖSKURSSI: 8,36
+
+PVM: 05.11.2010   PÄÄTÖSKURSSI: 9,76
+
+PVM: 08.11.2010   PÄÄTÖSKURSSI: 9,76
+
+PVM: 09.11.2010   PÄÄTÖSKURSSI: 9,02
+
+PVM: 10.11.2010   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 11.11.2010   PÄÄTÖSKURSSI: 9,20
+
+PVM: 12.11.2010   PÄÄTÖSKURSSI: 9,20
+
+PVM: 15.11.2010   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 16.11.2010   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 17.11.2010   PÄÄTÖSKURSSI: 9,20
+
+PVM: 18.11.2010   PÄÄTÖSKURSSI: 9,00
+
+PVM: 19.11.2010   PÄÄTÖSKURSSI: 9,00
+
+PVM: 22.11.2010   PÄÄTÖSKURSSI: 8,90
+
+PVM: 23.11.2010   PÄÄTÖSKURSSI: 8,85
+
+PVM: 24.11.2010   PÄÄTÖSKURSSI: 8,80
+
+PVM: 25.11.2010   PÄÄTÖSKURSSI: 9,50
+
+PVM: 26.11.2010   PÄÄTÖSKURSSI: 9,50
+
+PVM: 29.11.2010   PÄÄTÖSKURSSI: 9,50
+
+PVM: 30.11.2010   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 01.12.2010   PÄÄTÖSKURSSI: 9,40
+
+PVM: 02.12.2010   PÄÄTÖSKURSSI: 9,38
+
+PVM: 03.12.2010   PÄÄTÖSKURSSI: 9,40
+
+PVM: 07.12.2010   PÄÄTÖSKURSSI: 9,45
+
+PVM: 08.12.2010   PÄÄTÖSKURSSI: 9,45
+
+PVM: 09.12.2010   PÄÄTÖSKURSSI: 9,49
+
+PVM: 10.12.2010   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 13.12.2010   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 14.12.2010   PÄÄTÖSKURSSI: 9,50
+
+PVM: 15.12.2010   PÄÄTÖSKURSSI: 9,51
+
+PVM: 16.12.2010   PÄÄTÖSKURSSI: 9,51
+
+PVM: 17.12.2010   PÄÄTÖSKURSSI: 9,51
+
+PVM: 20.12.2010   PÄÄTÖSKURSSI: 9,70
+
+PVM: 21.12.2010   PÄÄTÖSKURSSI: 9,82
+
+PVM: 22.12.2010   PÄÄTÖSKURSSI: 10,28
+
+PVM: 23.12.2010   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 27.12.2010   PÄÄTÖSKURSSI: 10,87
+
+PVM: 28.12.2010   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 29.12.2010   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 30.12.2010   PÄÄTÖSKURSSI: 9,90
+
+PVM: 03.01.2011   PÄÄTÖSKURSSI: 10,30
+
+PVM: 04.01.2011   PÄÄTÖSKURSSI: 10,20
+
+PVM: 05.01.2011   PÄÄTÖSKURSSI: 10,79
+
+PVM: 07.01.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 10.01.2011   PÄÄTÖSKURSSI: 10,79
+
+PVM: 11.01.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 12.01.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 13.01.2011   PÄÄTÖSKURSSI: 10,24
+
+PVM: 14.01.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 17.01.2011   PÄÄTÖSKURSSI: 10,27
+
+PVM: 18.01.2011   PÄÄTÖSKURSSI: 10,79
+
+PVM: 19.01.2011   PÄÄTÖSKURSSI: 10,78
+
+PVM: 20.01.2011   PÄÄTÖSKURSSI: 10,77
+
+PVM: 21.01.2011   PÄÄTÖSKURSSI: 10,70
+
+PVM: 24.01.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 25.01.2011   PÄÄTÖSKURSSI: 10,50
+
+PVM: 26.01.2011   PÄÄTÖSKURSSI: 10,40
+
+PVM: 27.01.2011   PÄÄTÖSKURSSI: 9,58
+
+PVM: 28.01.2011   PÄÄTÖSKURSSI: 10,49
+
+PVM: 31.01.2011   PÄÄTÖSKURSSI: 9,71
+
+PVM: 01.02.2011   PÄÄTÖSKURSSI: 10,18
+
+PVM: 02.02.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 03.02.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 04.02.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 07.02.2011   PÄÄTÖSKURSSI: 10,00
+
+PVM: 08.02.2011   PÄÄTÖSKURSSI: 10,20
+
+PVM: 09.02.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 10.02.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 11.02.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 14.02.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 15.02.2011   PÄÄTÖSKURSSI: 9,93
+
+PVM: 16.02.2011   PÄÄTÖSKURSSI: 10,26
+
+PVM: 17.02.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 18.02.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 21.02.2011   PÄÄTÖSKURSSI: 10,52
+
+PVM: 22.02.2011   PÄÄTÖSKURSSI: 10,20
+
+PVM: 23.02.2011   PÄÄTÖSKURSSI: 10,08
+
+PVM: 24.02.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 25.02.2011   PÄÄTÖSKURSSI: 10,40
+
+PVM: 28.02.2011   PÄÄTÖSKURSSI: 10,50
+
+PVM: 01.03.2011   PÄÄTÖSKURSSI: 10,50
+
+PVM: 02.03.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 03.03.2011   PÄÄTÖSKURSSI: 10,59
+
+PVM: 04.03.2011   PÄÄTÖSKURSSI: 10,60
+
+PVM: 07.03.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 08.03.2011   PÄÄTÖSKURSSI: 10,34
+
+PVM: 09.03.2011   PÄÄTÖSKURSSI: 10,56
+
+PVM: 10.03.2011   PÄÄTÖSKURSSI: 10,54
+
+PVM: 11.03.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 14.03.2011   PÄÄTÖSKURSSI: 10,40
+
+PVM: 15.03.2011   PÄÄTÖSKURSSI: 10,30
+
+PVM: 16.03.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 17.03.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 18.03.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 21.03.2011   PÄÄTÖSKURSSI: 10,34
+
+PVM: 22.03.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 23.03.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 24.03.2011   PÄÄTÖSKURSSI: 10,35
+
+PVM: 25.03.2011   PÄÄTÖSKURSSI: 10,80
+
+PVM: 28.03.2011   PÄÄTÖSKURSSI: 10,40
+
+PVM: 29.03.2011   PÄÄTÖSKURSSI: 10,33
+
+PVM: 30.03.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 31.03.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 01.04.2011   PÄÄTÖSKURSSI: 10,40
+
+PVM: 04.04.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 05.04.2011   PÄÄTÖSKURSSI: 10,80
+
+PVM: 06.04.2011   PÄÄTÖSKURSSI: 10,99
+
+PVM: 07.04.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 08.04.2011   PÄÄTÖSKURSSI: 10,99
+
+PVM: 11.04.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 12.04.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 13.04.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 14.04.2011   PÄÄTÖSKURSSI: 10,99
+
+PVM: 15.04.2011   PÄÄTÖSKURSSI: 10,61
+
+PVM: 18.04.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 19.04.2011   PÄÄTÖSKURSSI: 10,61
+
+PVM: 20.04.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 21.04.2011   PÄÄTÖSKURSSI: 10,21
+
+PVM: 26.04.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 27.04.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 28.04.2011   PÄÄTÖSKURSSI: 10,32
+
+PVM: 29.04.2011   PÄÄTÖSKURSSI: 10,50
+
+PVM: 02.05.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 03.05.2011   PÄÄTÖSKURSSI: 10,49
+
+PVM: 04.05.2011   PÄÄTÖSKURSSI: 10,35
+
+PVM: 05.05.2011   PÄÄTÖSKURSSI: 10,70
+
+PVM: 06.05.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 09.05.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 10.05.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 11.05.2011   PÄÄTÖSKURSSI: 10,70
+
+PVM: 12.05.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 13.05.2011   PÄÄTÖSKURSSI: 10,41
+
+PVM: 16.05.2011   PÄÄTÖSKURSSI: 10,40
+
+PVM: 17.05.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 18.05.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 19.05.2011   PÄÄTÖSKURSSI: 10,40
+
+PVM: 20.05.2011   PÄÄTÖSKURSSI: 9,65
+
+PVM: 23.05.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 24.05.2011   PÄÄTÖSKURSSI: 9,72
+
+PVM: 25.05.2011   PÄÄTÖSKURSSI: 10,00
+
+PVM: 26.05.2011   PÄÄTÖSKURSSI: 10,29
+
+PVM: 27.05.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 30.05.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 31.05.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 01.06.2011   PÄÄTÖSKURSSI: 9,77
+
+PVM: 03.06.2011   PÄÄTÖSKURSSI: 10,00
+
+PVM: 06.06.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 07.06.2011   PÄÄTÖSKURSSI: 10,00
+
+PVM: 08.06.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 09.06.2011   PÄÄTÖSKURSSI: 9,95
+
+PVM: 10.06.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 13.06.2011   PÄÄTÖSKURSSI: 9,93
+
+PVM: 14.06.2011   PÄÄTÖSKURSSI: 9,93
+
+PVM: 15.06.2011   PÄÄTÖSKURSSI: 9,95
+
+PVM: 16.06.2011   PÄÄTÖSKURSSI: 9,93
+
+PVM: 17.06.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 20.06.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 21.06.2011   PÄÄTÖSKURSSI: 9,75
+
+PVM: 22.06.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 23.06.2011   PÄÄTÖSKURSSI: 9,75
+
+PVM: 27.06.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 28.06.2011   PÄÄTÖSKURSSI: 9,72
+
+PVM: 29.06.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 30.06.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 01.07.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 04.07.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 05.07.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 06.07.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 07.07.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 08.07.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 11.07.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 12.07.2011   PÄÄTÖSKURSSI: 9,59
+
+PVM: 13.07.2011   PÄÄTÖSKURSSI: 9,59
+
+PVM: 14.07.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 15.07.2011   PÄÄTÖSKURSSI: 11,00
+
+PVM: 18.07.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 19.07.2011   PÄÄTÖSKURSSI: 10,98
+
+PVM: 20.07.2011   PÄÄTÖSKURSSI: 9,61
+
+PVM: 21.07.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 22.07.2011   PÄÄTÖSKURSSI: 9,67
+
+PVM: 25.07.2011   PÄÄTÖSKURSSI: 9,67
+
+PVM: 26.07.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 27.07.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 28.07.2011   PÄÄTÖSKURSSI: 10,79
+
+PVM: 29.07.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 01.08.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 02.08.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 03.08.2011   PÄÄTÖSKURSSI: 9,72
+
+PVM: 04.08.2011   PÄÄTÖSKURSSI: 9,71
+
+PVM: 05.08.2011   PÄÄTÖSKURSSI: 9,05
+
+PVM: 08.08.2011   PÄÄTÖSKURSSI: 9,05
+
+PVM: 09.08.2011   PÄÄTÖSKURSSI: 9,06
+
+PVM: 10.08.2011   PÄÄTÖSKURSSI: 9,06
+
+PVM: 11.08.2011   PÄÄTÖSKURSSI: 9,30
+
+PVM: 12.08.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 15.08.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 16.08.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 17.08.2011   PÄÄTÖSKURSSI: 9,20
+
+PVM: 18.08.2011   PÄÄTÖSKURSSI: 9,21
+
+PVM: 19.08.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 22.08.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 23.08.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 24.08.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 25.08.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 26.08.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 29.08.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 30.08.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 31.08.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 01.09.2011   PÄÄTÖSKURSSI: 9,20
+
+PVM: 02.09.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 05.09.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 06.09.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 07.09.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 08.09.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 09.09.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 12.09.2011   PÄÄTÖSKURSSI: 9,14
+
+PVM: 13.09.2011   PÄÄTÖSKURSSI: 9,12
+
+PVM: 14.09.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 15.09.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 16.09.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 19.09.2011   PÄÄTÖSKURSSI: 9,12
+
+PVM: 20.09.2011   PÄÄTÖSKURSSI: 8,90
+
+PVM: 21.09.2011   PÄÄTÖSKURSSI: 9,01
+
+PVM: 22.09.2011   PÄÄTÖSKURSSI: 9,35
+
+PVM: 23.09.2011   PÄÄTÖSKURSSI: 9,06
+
+PVM: 26.09.2011   PÄÄTÖSKURSSI: 9,90
+
+PVM: 27.09.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 28.09.2011   PÄÄTÖSKURSSI: 9,90
+
+PVM: 29.09.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 30.09.2011   PÄÄTÖSKURSSI: 9,13
+
+PVM: 03.10.2011   PÄÄTÖSKURSSI: 9,15
+
+PVM: 04.10.2011   PÄÄTÖSKURSSI: 9,01
+
+PVM: 05.10.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 06.10.2011   PÄÄTÖSKURSSI: 10,49
+
+PVM: 07.10.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 10.10.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 11.10.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 12.10.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 13.10.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 14.10.2011   PÄÄTÖSKURSSI: 9,40
+
+PVM: 17.10.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 18.10.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 19.10.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 20.10.2011   PÄÄTÖSKURSSI: 9,41
+
+PVM: 21.10.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 24.10.2011   PÄÄTÖSKURSSI: 9,23
+
+PVM: 25.10.2011   PÄÄTÖSKURSSI: 9,23
+
+PVM: 26.10.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 27.10.2011   PÄÄTÖSKURSSI: 9,99
+
+PVM: 28.10.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 31.10.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 01.11.2011   PÄÄTÖSKURSSI: 10,00
+
+PVM: 02.11.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 03.11.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 04.11.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 07.11.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 08.11.2011   PÄÄTÖSKURSSI: 9,56
+
+PVM: 09.11.2011   PÄÄTÖSKURSSI: 9,50
+
+PVM: 10.11.2011   PÄÄTÖSKURSSI: 9,55
+
+PVM: 11.11.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 14.11.2011   PÄÄTÖSKURSSI: 9,55
+
+PVM: 15.11.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 16.11.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 17.11.2011   PÄÄTÖSKURSSI: 9,57
+
+PVM: 18.11.2011   PÄÄTÖSKURSSI: 9,50
+
+PVM: 21.11.2011   PÄÄTÖSKURSSI: 9,51
+
+PVM: 22.11.2011   PÄÄTÖSKURSSI: 9,50
+
+PVM: 23.11.2011   PÄÄTÖSKURSSI: 9,50
+
+PVM: 24.11.2011   PÄÄTÖSKURSSI: 9,52
+
+PVM: 25.11.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 28.11.2011   PÄÄTÖSKURSSI: 9,55
+
+PVM: 29.11.2011   PÄÄTÖSKURSSI: 9,56
+
+PVM: 30.11.2011   PÄÄTÖSKURSSI: 9,80
+
+PVM: 01.12.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 02.12.2011   PÄÄTÖSKURSSI: 9,56
+
+PVM: 05.12.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 06.12.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 07.12.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 08.12.2011   PÄÄTÖSKURSSI: 9,56
+
+PVM: 09.12.2011   PÄÄTÖSKURSSI: 9,66
+
+PVM: 12.12.2011   PÄÄTÖSKURSSI: 9,80
+
+PVM: 13.12.2011   PÄÄTÖSKURSSI: 9,66
+
+PVM: 14.12.2011   PÄÄTÖSKURSSI: 9,66
+
+PVM: 15.12.2011   PÄÄTÖSKURSSI: 9,66
+
+PVM: 16.12.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 19.12.2011   PÄÄTÖSKURSSI: 9,66
+
+PVM: 20.12.2011   PÄÄTÖSKURSSI: 9,15
+
+PVM: 21.12.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 22.12.2011   PÄÄTÖSKURSSI: 9,65
+
+PVM: 23.12.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 27.12.2011   PÄÄTÖSKURSSI: 9,30
+
+PVM: 28.12.2011   PÄÄTÖSKURSSI: 9,00
+
+PVM: 29.12.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 30.12.2011   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 02.01.2012   PÄÄTÖSKURSSI: 9,02
+
+PVM: 03.01.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 04.01.2012   PÄÄTÖSKURSSI: 9,10
+
+PVM: 05.01.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 09.01.2012   PÄÄTÖSKURSSI: 11,29
+
+PVM: 10.01.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 11.01.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 12.01.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 13.01.2012   PÄÄTÖSKURSSI: 9,20
+
+PVM: 16.01.2012   PÄÄTÖSKURSSI: 9,22
+
+PVM: 17.01.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 18.01.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 19.01.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 20.01.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 23.01.2012   PÄÄTÖSKURSSI: 9,45
+
+PVM: 24.01.2012   PÄÄTÖSKURSSI: 9,99
+
+PVM: 25.01.2012   PÄÄTÖSKURSSI: 9,50
+
+PVM: 26.01.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 27.01.2012   PÄÄTÖSKURSSI: 9,51
+
+PVM: 30.01.2012   PÄÄTÖSKURSSI: 9,55
+
+PVM: 31.01.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 01.02.2012   PÄÄTÖSKURSSI: 9,99
+
+PVM: 02.02.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 03.02.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 06.02.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 07.02.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 08.02.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 09.02.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 10.02.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 13.02.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 14.02.2012   PÄÄTÖSKURSSI: 9,80
+
+PVM: 15.02.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 16.02.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 17.02.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 20.02.2012   PÄÄTÖSKURSSI: 9,50
+
+PVM: 21.02.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 22.02.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 23.02.2012   PÄÄTÖSKURSSI: 9,50
+
+PVM: 24.02.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 27.02.2012   PÄÄTÖSKURSSI: 9,25
+
+PVM: 28.02.2012   PÄÄTÖSKURSSI: 9,25
+
+PVM: 29.02.2012   PÄÄTÖSKURSSI: 9,25
+
+PVM: 01.03.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 02.03.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 05.03.2012   PÄÄTÖSKURSSI: 9,25
+
+PVM: 06.03.2012   PÄÄTÖSKURSSI: 9,25
+
+PVM: 07.03.2012   PÄÄTÖSKURSSI: 9,25
+
+PVM: 08.03.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 09.03.2012   PÄÄTÖSKURSSI: 9,16
+
+PVM: 12.03.2012   PÄÄTÖSKURSSI: 9,25
+
+PVM: 13.03.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 14.03.2012   PÄÄTÖSKURSSI: 9,26
+
+PVM: 15.03.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 16.03.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 19.03.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 20.03.2012   PÄÄTÖSKURSSI: 9,11
+
+PVM: 21.03.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 22.03.2012   PÄÄTÖSKURSSI: 9,11
+
+PVM: 23.03.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 26.03.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 27.03.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 28.03.2012   PÄÄTÖSKURSSI: 9,50
+
+PVM: 29.03.2012   PÄÄTÖSKURSSI: 9,01
+
+PVM: 30.03.2012   PÄÄTÖSKURSSI: 9,00
+
+PVM: 02.04.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 03.04.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 04.04.2012   PÄÄTÖSKURSSI: 9,01
+
+PVM: 05.04.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 10.04.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 11.04.2012   PÄÄTÖSKURSSI: 9,01
+
+PVM: 12.04.2012   PÄÄTÖSKURSSI: 9,50
+
+PVM: 13.04.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 16.04.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 17.04.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 18.04.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 19.04.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 20.04.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 23.04.2012   PÄÄTÖSKURSSI: 9,00
+
+PVM: 24.04.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 25.04.2012   PÄÄTÖSKURSSI: 8,80
+
+PVM: 26.04.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 27.04.2012   PÄÄTÖSKURSSI: 8,90
+
+PVM: 30.04.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 02.05.2012   PÄÄTÖSKURSSI: 8,10
+
+PVM: 03.05.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 04.05.2012   PÄÄTÖSKURSSI: 8,29
+
+PVM: 07.05.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 08.05.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 09.05.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 10.05.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 11.05.2012   PÄÄTÖSKURSSI: 8,29
+
+PVM: 14.05.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 15.05.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 16.05.2012   PÄÄTÖSKURSSI: 8,29
+
+PVM: 18.05.2012   PÄÄTÖSKURSSI: 9,15
+
+PVM: 21.05.2012   PÄÄTÖSKURSSI: 8,29
+
+PVM: 22.05.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 23.05.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 24.05.2012   PÄÄTÖSKURSSI: 8,29
+
+PVM: 25.05.2012   PÄÄTÖSKURSSI: 8,29
+
+PVM: 28.05.2012   PÄÄTÖSKURSSI: 8,29
+
+PVM: 29.05.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 30.05.2012   PÄÄTÖSKURSSI: 8,12
+
+PVM: 31.05.2012   PÄÄTÖSKURSSI: 8,29
+
+PVM: 01.06.2012   PÄÄTÖSKURSSI: 8,50
+
+PVM: 04.06.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 05.06.2012   PÄÄTÖSKURSSI: 9,90
+
+PVM: 06.06.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 07.06.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 08.06.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 11.06.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 12.06.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 13.06.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 14.06.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 15.06.2012   PÄÄTÖSKURSSI: 7,40
+
+PVM: 18.06.2012   PÄÄTÖSKURSSI: 7,89
+
+PVM: 19.06.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 20.06.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 21.06.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 25.06.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 26.06.2012   PÄÄTÖSKURSSI: 7,82
+
+PVM: 27.06.2012   PÄÄTÖSKURSSI: 7,82
+
+PVM: 28.06.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 29.06.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 02.07.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 03.07.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 04.07.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 05.07.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 06.07.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 09.07.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 10.07.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 11.07.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 12.07.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 13.07.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 16.07.2012   PÄÄTÖSKURSSI: 7,82
+
+PVM: 17.07.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 18.07.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 19.07.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 20.07.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 23.07.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 24.07.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 25.07.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 26.07.2012   PÄÄTÖSKURSSI: 6,77
+
+PVM: 27.07.2012   PÄÄTÖSKURSSI: 6,78
+
+PVM: 30.07.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 31.07.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 01.08.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 02.08.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 03.08.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 06.08.2012   PÄÄTÖSKURSSI: 7,82
+
+PVM: 07.08.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 08.08.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 09.08.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 10.08.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 13.08.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 14.08.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 15.08.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 16.08.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 17.08.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 20.08.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 21.08.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 22.08.2012   PÄÄTÖSKURSSI: 7,75
+
+PVM: 23.08.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 24.08.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 27.08.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 28.08.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 29.08.2012   PÄÄTÖSKURSSI: 7,50
+
+PVM: 30.08.2012   PÄÄTÖSKURSSI: 7,75
+
+PVM: 31.08.2012   PÄÄTÖSKURSSI: 7,79
+
+PVM: 03.09.2012   PÄÄTÖSKURSSI: 7,85
+
+PVM: 04.09.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 05.09.2012   PÄÄTÖSKURSSI: 7,87
+
+PVM: 06.09.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 07.09.2012   PÄÄTÖSKURSSI: 8,00
+
+PVM: 10.09.2012   PÄÄTÖSKURSSI: 7,53
+
+PVM: 11.09.2012   PÄÄTÖSKURSSI: 7,53
+
+PVM: 12.09.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 13.09.2012   PÄÄTÖSKURSSI: 7,50
+
+PVM: 14.09.2012   PÄÄTÖSKURSSI: 8,00
+
+PVM: 17.09.2012   PÄÄTÖSKURSSI: 7,64
+
+PVM: 18.09.2012   PÄÄTÖSKURSSI: 7,85
+
+PVM: 19.09.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 20.09.2012   PÄÄTÖSKURSSI: 7,64
+
+PVM: 21.09.2012   PÄÄTÖSKURSSI: 7,55
+
+PVM: 24.09.2012   PÄÄTÖSKURSSI: 7,60
+
+PVM: 25.09.2012   PÄÄTÖSKURSSI: 7,68
+
+PVM: 26.09.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 27.09.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 28.09.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 01.10.2012   PÄÄTÖSKURSSI: 8,00
+
+PVM: 02.10.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 03.10.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 04.10.2012   PÄÄTÖSKURSSI: 7,83
+
+PVM: 05.10.2012   PÄÄTÖSKURSSI: 7,82
+
+PVM: 08.10.2012   PÄÄTÖSKURSSI: 7,65
+
+PVM: 09.10.2012   PÄÄTÖSKURSSI: 7,99
+
+PVM: 10.10.2012   PÄÄTÖSKURSSI: 7,62
+
+PVM: 11.10.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 12.10.2012   PÄÄTÖSKURSSI: 7,50
+
+PVM: 15.10.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 16.10.2012   PÄÄTÖSKURSSI: 7,24
+
+PVM: 17.10.2012   PÄÄTÖSKURSSI: 7,26
+
+PVM: 18.10.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 19.10.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 22.10.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 23.10.2012   PÄÄTÖSKURSSI: 7,17
+
+PVM: 24.10.2012   PÄÄTÖSKURSSI: 7,00
+
+PVM: 25.10.2012   PÄÄTÖSKURSSI: 6,85
+
+PVM: 26.10.2012   PÄÄTÖSKURSSI: 7,15
+
+PVM: 29.10.2012   PÄÄTÖSKURSSI: 7,00
+
+PVM: 30.10.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 31.10.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 01.11.2012   PÄÄTÖSKURSSI: 6,85
+
+PVM: 02.11.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 05.11.2012   PÄÄTÖSKURSSI: 7,15
+
+PVM: 06.11.2012   PÄÄTÖSKURSSI: 7,15
+
+PVM: 07.11.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 08.11.2012   PÄÄTÖSKURSSI: 6,95
+
+PVM: 09.11.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 12.11.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 13.11.2012   PÄÄTÖSKURSSI: 7,00
+
+PVM: 14.11.2012   PÄÄTÖSKURSSI: 6,99
+
+PVM: 15.11.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 16.11.2012   PÄÄTÖSKURSSI: 6,95
+
+PVM: 19.11.2012   PÄÄTÖSKURSSI: 7,00
+
+PVM: 20.11.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 21.11.2012   PÄÄTÖSKURSSI: 7,00
+
+PVM: 22.11.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 23.11.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 26.11.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 27.11.2012   PÄÄTÖSKURSSI: 7,00
+
+PVM: 28.11.2012   PÄÄTÖSKURSSI: 6,95
+
+PVM: 29.11.2012   PÄÄTÖSKURSSI: 6,40
+
+PVM: 30.11.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 03.12.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 04.12.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 05.12.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 07.12.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 10.12.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 11.12.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 12.12.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 13.12.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 14.12.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 17.12.2012   PÄÄTÖSKURSSI: 6,57
+
+PVM: 18.12.2012   PÄÄTÖSKURSSI: 7,00
+
+PVM: 19.12.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 20.12.2012   PÄÄTÖSKURSSI: 7,00
+
+PVM: 21.12.2012   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 27.12.2012   PÄÄTÖSKURSSI: 6,69
+
+PVM: 28.12.2012   PÄÄTÖSKURSSI: 7,00
+
+PVM: 02.01.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 03.01.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 04.01.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 07.01.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 08.01.2013   PÄÄTÖSKURSSI: 7,95
+
+PVM: 09.01.2013   PÄÄTÖSKURSSI: 7,95
+
+PVM: 10.01.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 11.01.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 14.01.2013   PÄÄTÖSKURSSI: 7,85
+
+PVM: 15.01.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 16.01.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 17.01.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 18.01.2013   PÄÄTÖSKURSSI: 7,06
+
+PVM: 21.01.2013   PÄÄTÖSKURSSI: 7,22
+
+PVM: 22.01.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 23.01.2013   PÄÄTÖSKURSSI: 7,30
+
+PVM: 24.01.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 25.01.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 28.01.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 29.01.2013   PÄÄTÖSKURSSI: 7,35
+
+PVM: 30.01.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 31.01.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 01.02.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 04.02.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 05.02.2013   PÄÄTÖSKURSSI: 6,96
+
+PVM: 06.02.2013   PÄÄTÖSKURSSI: 6,89
+
+PVM: 07.02.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 08.02.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 11.02.2013   PÄÄTÖSKURSSI: 6,89
+
+PVM: 12.02.2013   PÄÄTÖSKURSSI: 6,88
+
+PVM: 13.02.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 14.02.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 15.02.2013   PÄÄTÖSKURSSI: 6,70
+
+PVM: 18.02.2013   PÄÄTÖSKURSSI: 6,70
+
+PVM: 19.02.2013   PÄÄTÖSKURSSI: 5,88
+
+PVM: 20.02.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 21.02.2013   PÄÄTÖSKURSSI: 5,60
+
+PVM: 22.02.2013   PÄÄTÖSKURSSI: 5,52
+
+PVM: 25.02.2013   PÄÄTÖSKURSSI: 5,52
+
+PVM: 26.02.2013   PÄÄTÖSKURSSI: 5,52
+
+PVM: 27.02.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 28.02.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 01.03.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 04.03.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 05.03.2013   PÄÄTÖSKURSSI: 5,13
+
+PVM: 06.03.2013   PÄÄTÖSKURSSI: 5,59
+
+PVM: 07.03.2013   PÄÄTÖSKURSSI: 5,60
+
+PVM: 08.03.2013   PÄÄTÖSKURSSI: 5,40
+
+PVM: 11.03.2013   PÄÄTÖSKURSSI: 5,40
+
+PVM: 12.03.2013   PÄÄTÖSKURSSI: 5,09
+
+PVM: 13.03.2013   PÄÄTÖSKURSSI: 5,08
+
+PVM: 14.03.2013   PÄÄTÖSKURSSI: 4,95
+
+PVM: 15.03.2013   PÄÄTÖSKURSSI: 5,07
+
+PVM: 18.03.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 19.03.2013   PÄÄTÖSKURSSI: 5,07
+
+PVM: 20.03.2013   PÄÄTÖSKURSSI: 5,07
+
+PVM: 21.03.2013   PÄÄTÖSKURSSI: 5,00
+
+PVM: 22.03.2013   PÄÄTÖSKURSSI: 5,06
+
+PVM: 25.03.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 26.03.2013   PÄÄTÖSKURSSI: 4,96
+
+PVM: 27.03.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 28.03.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 02.04.2013   PÄÄTÖSKURSSI: 4,96
+
+PVM: 03.04.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 04.04.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 05.04.2013   PÄÄTÖSKURSSI: 5,19
+
+PVM: 08.04.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 09.04.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 10.04.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 11.04.2013   PÄÄTÖSKURSSI: 5,15
+
+PVM: 12.04.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 15.04.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 16.04.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 17.04.2013   PÄÄTÖSKURSSI: 5,20
+
+PVM: 18.04.2013   PÄÄTÖSKURSSI: 4,62
+
+PVM: 19.04.2013   PÄÄTÖSKURSSI: 5,00
+
+PVM: 22.04.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 23.04.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 24.04.2013   PÄÄTÖSKURSSI: 4,61
+
+PVM: 25.04.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 26.04.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 29.04.2013   PÄÄTÖSKURSSI: 4,61
+
+PVM: 30.04.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 02.05.2013   PÄÄTÖSKURSSI: 4,60
+
+PVM: 03.05.2013   PÄÄTÖSKURSSI: 5,49
+
+PVM: 06.05.2013   PÄÄTÖSKURSSI: 5,47
+
+PVM: 07.05.2013   PÄÄTÖSKURSSI: 5,41
+
+PVM: 08.05.2013   PÄÄTÖSKURSSI: 5,47
+
+PVM: 10.05.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 13.05.2013   PÄÄTÖSKURSSI: 4,76
+
+PVM: 14.05.2013   PÄÄTÖSKURSSI: 4,68
+
+PVM: 15.05.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 16.05.2013   PÄÄTÖSKURSSI: 5,36
+
+PVM: 17.05.2013   PÄÄTÖSKURSSI: 4,80
+
+PVM: 20.05.2013   PÄÄTÖSKURSSI: 5,06
+
+PVM: 21.05.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 22.05.2013   PÄÄTÖSKURSSI: 4,59
+
+PVM: 23.05.2013   PÄÄTÖSKURSSI: 4,58
+
+PVM: 24.05.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 27.05.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 28.05.2013   PÄÄTÖSKURSSI: 4,55
+
+PVM: 29.05.2013   PÄÄTÖSKURSSI: 4,75
+
+PVM: 30.05.2013   PÄÄTÖSKURSSI: 4,55
+
+PVM: 31.05.2013   PÄÄTÖSKURSSI: 5,00
+
+PVM: 03.06.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 04.06.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 05.06.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 06.06.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 07.06.2013   PÄÄTÖSKURSSI: 4,60
+
+PVM: 10.06.2013   PÄÄTÖSKURSSI: 5,00
+
+PVM: 11.06.2013   PÄÄTÖSKURSSI: 5,00
+
+PVM: 12.06.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 13.06.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 14.06.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 17.06.2013   PÄÄTÖSKURSSI: 4,60
+
+PVM: 18.06.2013   PÄÄTÖSKURSSI: 5,39
+
+PVM: 19.06.2013   PÄÄTÖSKURSSI: 5,39
+
+PVM: 20.06.2013   PÄÄTÖSKURSSI: 5,39
+
+PVM: 24.06.2013   PÄÄTÖSKURSSI: 5,40
+
+PVM: 25.06.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 26.06.2013   PÄÄTÖSKURSSI: 5,50
+
+PVM: 27.06.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 28.06.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 01.07.2013   PÄÄTÖSKURSSI: 5,00
+
+PVM: 02.07.2013   PÄÄTÖSKURSSI: 5,40
+
+PVM: 03.07.2013   PÄÄTÖSKURSSI: 4,36
+
+PVM: 04.07.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 05.07.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 08.07.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 09.07.2013   PÄÄTÖSKURSSI: 5,23
+
+PVM: 10.07.2013   PÄÄTÖSKURSSI: 4,79
+
+PVM: 11.07.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 12.07.2013   PÄÄTÖSKURSSI: 5,00
+
+PVM: 15.07.2013   PÄÄTÖSKURSSI: 4,89
+
+PVM: 16.07.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 17.07.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 18.07.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 19.07.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 22.07.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 23.07.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 24.07.2013   PÄÄTÖSKURSSI: 4,50
+
+PVM: 25.07.2013   PÄÄTÖSKURSSI: 4,45
+
+PVM: 26.07.2013   PÄÄTÖSKURSSI: 4,45
+
+PVM: 29.07.2013   PÄÄTÖSKURSSI: 4,50
+
+PVM: 30.07.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 31.07.2013   PÄÄTÖSKURSSI: 4,90
+
+PVM: 01.08.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 02.08.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 05.08.2013   PÄÄTÖSKURSSI: 4,90
+
+PVM: 06.08.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 07.08.2013   PÄÄTÖSKURSSI: 5,49
+
+PVM: 08.08.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 09.08.2013   PÄÄTÖSKURSSI: 5,49
+
+PVM: 12.08.2013   PÄÄTÖSKURSSI: 5,50
+
+PVM: 13.08.2013   PÄÄTÖSKURSSI: 5,80
+
+PVM: 14.08.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 15.08.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 16.08.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 19.08.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 20.08.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 21.08.2013   PÄÄTÖSKURSSI: 5,80
+
+PVM: 22.08.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 23.08.2013   PÄÄTÖSKURSSI: 5,79
+
+PVM: 26.08.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 27.08.2013   PÄÄTÖSKURSSI: 5,80
+
+PVM: 28.08.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 29.08.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 30.08.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 02.09.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 03.09.2013   PÄÄTÖSKURSSI: 5,40
+
+PVM: 04.09.2013   PÄÄTÖSKURSSI: 6,50
+
+PVM: 05.09.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 06.09.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 09.09.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 10.09.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 11.09.2013   PÄÄTÖSKURSSI: 6,06
+
+PVM: 12.09.2013   PÄÄTÖSKURSSI: 5,51
+
+PVM: 13.09.2013   PÄÄTÖSKURSSI: 6,10
+
+PVM: 16.09.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 17.09.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 18.09.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 19.09.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 20.09.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 23.09.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 24.09.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 25.09.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 26.09.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 27.09.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 30.09.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 01.10.2013   PÄÄTÖSKURSSI: 5,99
+
+PVM: 02.10.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 03.10.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 04.10.2013   PÄÄTÖSKURSSI: 5,95
+
+PVM: 07.10.2013   PÄÄTÖSKURSSI: 5,95
+
+PVM: 08.10.2013   PÄÄTÖSKURSSI: 5,95
+
+PVM: 09.10.2013   PÄÄTÖSKURSSI: 5,51
+
+PVM: 10.10.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 11.10.2013   PÄÄTÖSKURSSI: 5,51
+
+PVM: 14.10.2013   PÄÄTÖSKURSSI: 5,51
+
+PVM: 15.10.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 16.10.2013   PÄÄTÖSKURSSI: 5,51
+
+PVM: 17.10.2013   PÄÄTÖSKURSSI: 5,51
+
+PVM: 18.10.2013   PÄÄTÖSKURSSI: 5,51
+
+PVM: 21.10.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 22.10.2013   PÄÄTÖSKURSSI: 5,51
+
+PVM: 23.10.2013   PÄÄTÖSKURSSI: 5,40
+
+PVM: 24.10.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 25.10.2013   PÄÄTÖSKURSSI: 5,23
+
+PVM: 28.10.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 29.10.2013   PÄÄTÖSKURSSI: 4,98
+
+PVM: 30.10.2013   PÄÄTÖSKURSSI: 4,98
+
+PVM: 31.10.2013   PÄÄTÖSKURSSI: 5,39
+
+PVM: 01.11.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 04.11.2013   PÄÄTÖSKURSSI: 5,37
+
+PVM: 05.11.2013   PÄÄTÖSKURSSI: 5,37
+
+PVM: 06.11.2013   PÄÄTÖSKURSSI: 5,70
+
+PVM: 07.11.2013   PÄÄTÖSKURSSI: 5,70
+
+PVM: 08.11.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 11.11.2013   PÄÄTÖSKURSSI: 5,60
+
+PVM: 12.11.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 13.11.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 14.11.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 15.11.2013   PÄÄTÖSKURSSI: 5,59
+
+PVM: 18.11.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 19.11.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 20.11.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 21.11.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 22.11.2013   PÄÄTÖSKURSSI: 5,58
+
+PVM: 25.11.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 26.11.2013   PÄÄTÖSKURSSI: 5,59
+
+PVM: 27.11.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 28.11.2013   PÄÄTÖSKURSSI: 5,69
+
+PVM: 29.11.2013   PÄÄTÖSKURSSI: 5,50
+
+PVM: 02.12.2013   PÄÄTÖSKURSSI: 5,50
+
+PVM: 03.12.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 04.12.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 05.12.2013   PÄÄTÖSKURSSI: 5,03
+
+PVM: 09.12.2013   PÄÄTÖSKURSSI: 5,00
+
+PVM: 10.12.2013   PÄÄTÖSKURSSI: 5,49
+
+PVM: 11.12.2013   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 12.12.2013   PÄÄTÖSKURSSI: 5,16
+
+PVM: 13.12.2013   PÄÄTÖSKURSSI: 4,91
+
+PVM: 16.12.2013   PÄÄTÖSKURSSI: 4,91
+
+PVM: 17.12.2013   PÄÄTÖSKURSSI: 5,18
+
+PVM: 18.12.2013   PÄÄTÖSKURSSI: 4,71
+
+PVM: 19.12.2013   PÄÄTÖSKURSSI: 4,85
+
+PVM: 20.12.2013   PÄÄTÖSKURSSI: 5,10
+
+PVM: 23.12.2013   PÄÄTÖSKURSSI: 4,77
+
+PVM: 27.12.2013   PÄÄTÖSKURSSI: 4,69
+
+PVM: 30.12.2013   PÄÄTÖSKURSSI: 4,69
+
+PVM: 02.01.2014   PÄÄTÖSKURSSI: 4,70
+
+PVM: 03.01.2014   PÄÄTÖSKURSSI: 4,69
+
+PVM: 07.01.2014   PÄÄTÖSKURSSI: 4,65
+
+PVM: 08.01.2014   PÄÄTÖSKURSSI: 4,81
+
+PVM: 09.01.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 10.01.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 13.01.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 14.01.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 15.01.2014   PÄÄTÖSKURSSI: 4,80
+
+PVM: 16.01.2014   PÄÄTÖSKURSSI: 4,53
+
+PVM: 17.01.2014   PÄÄTÖSKURSSI: 4,56
+
+PVM: 20.01.2014   PÄÄTÖSKURSSI: 4,80
+
+PVM: 21.01.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 22.01.2014   PÄÄTÖSKURSSI: 4,81
+
+PVM: 23.01.2014   PÄÄTÖSKURSSI: 4,78
+
+PVM: 24.01.2014   PÄÄTÖSKURSSI: 4,89
+
+PVM: 27.01.2014   PÄÄTÖSKURSSI: 4,98
+
+PVM: 28.01.2014   PÄÄTÖSKURSSI: 4,96
+
+PVM: 29.01.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 30.01.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 31.01.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 03.02.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 04.02.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 05.02.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 06.02.2014   PÄÄTÖSKURSSI: 4,64
+
+PVM: 07.02.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 10.02.2014   PÄÄTÖSKURSSI: 4,65
+
+PVM: 11.02.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 12.02.2014   PÄÄTÖSKURSSI: 4,65
+
+PVM: 13.02.2014   PÄÄTÖSKURSSI: 4,65
+
+PVM: 14.02.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 17.02.2014   PÄÄTÖSKURSSI: 4,65
+
+PVM: 18.02.2014   PÄÄTÖSKURSSI: 4,65
+
+PVM: 19.02.2014   PÄÄTÖSKURSSI: 4,65
+
+PVM: 20.02.2014   PÄÄTÖSKURSSI: 4,90
+
+PVM: 21.02.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 24.02.2014   PÄÄTÖSKURSSI: 4,79
+
+PVM: 25.02.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 26.02.2014   PÄÄTÖSKURSSI: 4,78
+
+PVM: 27.02.2014   PÄÄTÖSKURSSI: 4,77
+
+PVM: 28.02.2014   PÄÄTÖSKURSSI: 4,76
+
+PVM: 03.03.2014   PÄÄTÖSKURSSI: 4,01
+
+PVM: 04.03.2014   PÄÄTÖSKURSSI: 4,11
+
+PVM: 05.03.2014   PÄÄTÖSKURSSI: 4,10
+
+PVM: 06.03.2014   PÄÄTÖSKURSSI: 4,40
+
+PVM: 07.03.2014   PÄÄTÖSKURSSI: 4,40
+
+PVM: 10.03.2014   PÄÄTÖSKURSSI: 3,98
+
+PVM: 11.03.2014   PÄÄTÖSKURSSI: 4,15
+
+PVM: 12.03.2014   PÄÄTÖSKURSSI: 4,24
+
+PVM: 13.03.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 14.03.2014   PÄÄTÖSKURSSI: 4,04
+
+PVM: 17.03.2014   PÄÄTÖSKURSSI: 4,19
+
+PVM: 18.03.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 19.03.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 20.03.2014   PÄÄTÖSKURSSI: 4,09
+
+PVM: 21.03.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 24.03.2014   PÄÄTÖSKURSSI: 4,15
+
+PVM: 25.03.2014   PÄÄTÖSKURSSI: 4,00
+
+PVM: 26.03.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 27.03.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 28.03.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 31.03.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 01.04.2014   PÄÄTÖSKURSSI: 3,89
+
+PVM: 02.04.2014   PÄÄTÖSKURSSI: 3,89
+
+PVM: 03.04.2014   PÄÄTÖSKURSSI: 3,89
+
+PVM: 04.04.2014   PÄÄTÖSKURSSI: 3,90
+
+PVM: 07.04.2014   PÄÄTÖSKURSSI: 4,00
+
+PVM: 08.04.2014   PÄÄTÖSKURSSI: 4,50
+
+PVM: 09.04.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 10.04.2014   PÄÄTÖSKURSSI: 4,29
+
+PVM: 11.04.2014   PÄÄTÖSKURSSI: 3,73
+
+PVM: 14.04.2014   PÄÄTÖSKURSSI: 4,09
+
+PVM: 15.04.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 16.04.2014   PÄÄTÖSKURSSI: 4,29
+
+PVM: 17.04.2014   PÄÄTÖSKURSSI: 4,26
+
+PVM: 22.04.2014   PÄÄTÖSKURSSI: 4,20
+
+PVM: 23.04.2014   PÄÄTÖSKURSSI: 3,84
+
+PVM: 24.04.2014   PÄÄTÖSKURSSI: 3,84
+
+PVM: 25.04.2014   PÄÄTÖSKURSSI: 3,62
+
+PVM: 28.04.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 29.04.2014   PÄÄTÖSKURSSI: 4,23
+
+PVM: 30.04.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 02.05.2014   PÄÄTÖSKURSSI: 4,18
+
+PVM: 05.05.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 06.05.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 07.05.2014   PÄÄTÖSKURSSI: 4,16
+
+PVM: 08.05.2014   PÄÄTÖSKURSSI: 3,51
+
+PVM: 09.05.2014   PÄÄTÖSKURSSI: 4,15
+
+PVM: 12.05.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 13.05.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 14.05.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 15.05.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 16.05.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 19.05.2014   PÄÄTÖSKURSSI: 3,66
+
+PVM: 20.05.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 21.05.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 22.05.2014   PÄÄTÖSKURSSI: 4,00
+
+PVM: 23.05.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 26.05.2014   PÄÄTÖSKURSSI: 3,95
+
+PVM: 27.05.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 28.05.2014   PÄÄTÖSKURSSI: 3,90
+
+PVM: 30.05.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 02.06.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 03.06.2014   PÄÄTÖSKURSSI: 3,70
+
+PVM: 04.06.2014   PÄÄTÖSKURSSI: 3,52
+
+PVM: 05.06.2014   PÄÄTÖSKURSSI: 3,95
+
+PVM: 06.06.2014   PÄÄTÖSKURSSI: 4,10
+
+PVM: 09.06.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 10.06.2014   PÄÄTÖSKURSSI: 3,95
+
+PVM: 11.06.2014   PÄÄTÖSKURSSI: 4,07
+
+PVM: 12.06.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 13.06.2014   PÄÄTÖSKURSSI: 3,57
+
+PVM: 16.06.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 17.06.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 18.06.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 19.06.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 23.06.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 24.06.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 25.06.2014   PÄÄTÖSKURSSI: 3,57
+
+PVM: 26.06.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 27.06.2014   PÄÄTÖSKURSSI: 3,58
+
+PVM: 30.06.2014   PÄÄTÖSKURSSI: 3,60
+
+PVM: 01.07.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 02.07.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 03.07.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 04.07.2014   PÄÄTÖSKURSSI: 3,50
+
+PVM: 07.07.2014   PÄÄTÖSKURSSI: 3,45
+
+PVM: 08.07.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 09.07.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 10.07.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 11.07.2014   PÄÄTÖSKURSSI: 3,50
+
+PVM: 14.07.2014   PÄÄTÖSKURSSI: 3,49
+
+PVM: 15.07.2014   PÄÄTÖSKURSSI: 3,49
+
+PVM: 16.07.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 17.07.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 18.07.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 21.07.2014   PÄÄTÖSKURSSI: 3,40
+
+PVM: 22.07.2014   PÄÄTÖSKURSSI: 3,61
+
+PVM: 23.07.2014   PÄÄTÖSKURSSI: 3,61
+
+PVM: 24.07.2014   PÄÄTÖSKURSSI: 3,70
+
+PVM: 25.07.2014   PÄÄTÖSKURSSI: 3,51
+
+PVM: 28.07.2014   PÄÄTÖSKURSSI: 3,94
+
+PVM: 29.07.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 30.07.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 31.07.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 01.08.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 04.08.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 05.08.2014   PÄÄTÖSKURSSI: 3,60
+
+PVM: 06.08.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 07.08.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 08.08.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 11.08.2014   PÄÄTÖSKURSSI: 3,50
+
+PVM: 12.08.2014   PÄÄTÖSKURSSI: 3,60
+
+PVM: 13.08.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 14.08.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 15.08.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 18.08.2014   PÄÄTÖSKURSSI: 3,34
+
+PVM: 19.08.2014   PÄÄTÖSKURSSI: 3,45
+
+PVM: 20.08.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 21.08.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 22.08.2014   PÄÄTÖSKURSSI: 3,18
+
+PVM: 25.08.2014   PÄÄTÖSKURSSI: 3,15
+
+PVM: 26.08.2014   PÄÄTÖSKURSSI: 3,39
+
+PVM: 27.08.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 28.08.2014   PÄÄTÖSKURSSI: 3,35
+
+PVM: 29.08.2014   PÄÄTÖSKURSSI: 3,39
+
+PVM: 01.09.2014   PÄÄTÖSKURSSI: 3,10
+
+PVM: 02.09.2014   PÄÄTÖSKURSSI: 3,10
+
+PVM: 03.09.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 04.09.2014   PÄÄTÖSKURSSI: 3,16
+
+PVM: 05.09.2014   PÄÄTÖSKURSSI: 3,50
+
+PVM: 08.09.2014   PÄÄTÖSKURSSI: 3,49
+
+PVM: 09.09.2014   PÄÄTÖSKURSSI: 2,91
+
+PVM: 10.09.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 11.09.2014   PÄÄTÖSKURSSI: 3,01
+
+PVM: 12.09.2014   PÄÄTÖSKURSSI: 3,11
+
+PVM: 15.09.2014   PÄÄTÖSKURSSI: 2,92
+
+PVM: 16.09.2014   PÄÄTÖSKURSSI: 3,09
+
+PVM: 17.09.2014   PÄÄTÖSKURSSI: 2,90
+
+PVM: 18.09.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 19.09.2014   PÄÄTÖSKURSSI: 3,09
+
+PVM: 22.09.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 23.09.2014   PÄÄTÖSKURSSI: 3,09
+
+PVM: 24.09.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 25.09.2014   PÄÄTÖSKURSSI: 3,09
+
+PVM: 26.09.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 29.09.2014   PÄÄTÖSKURSSI: 2,99
+
+PVM: 30.09.2014   PÄÄTÖSKURSSI: 2,90
+
+PVM: 01.10.2014   PÄÄTÖSKURSSI: 2,80
+
+PVM: 02.10.2014   PÄÄTÖSKURSSI: 2,85
+
+PVM: 03.10.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 06.10.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 07.10.2014   PÄÄTÖSKURSSI: 2,80
+
+PVM: 08.10.2014   PÄÄTÖSKURSSI: 2,90
+
+PVM: 09.10.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 10.10.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 13.10.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 14.10.2014   PÄÄTÖSKURSSI: 2,11
+
+PVM: 15.10.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 16.10.2014   PÄÄTÖSKURSSI: 2,49
+
+PVM: 17.10.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 20.10.2014   PÄÄTÖSKURSSI: 2,51
+
+PVM: 21.10.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 22.10.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 23.10.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 24.10.2014   PÄÄTÖSKURSSI: 2,78
+
+PVM: 27.10.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 28.10.2014   PÄÄTÖSKURSSI: 2,39
+
+PVM: 29.10.2014   PÄÄTÖSKURSSI: 2,89
+
+PVM: 30.10.2014   PÄÄTÖSKURSSI: 2,70
+
+PVM: 31.10.2014   PÄÄTÖSKURSSI: 2,89
+
+PVM: 03.11.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 04.11.2014   PÄÄTÖSKURSSI: 2,85
+
+PVM: 05.11.2014   PÄÄTÖSKURSSI: 2,62
+
+PVM: 06.11.2014   PÄÄTÖSKURSSI: 2,80
+
+PVM: 07.11.2014   PÄÄTÖSKURSSI: 2,79
+
+PVM: 10.11.2014   PÄÄTÖSKURSSI: 2,60
+
+PVM: 11.11.2014   PÄÄTÖSKURSSI: 2,74
+
+PVM: 12.11.2014   PÄÄTÖSKURSSI: 2,75
+
+PVM: 13.11.2014   PÄÄTÖSKURSSI: 2,80
+
+PVM: 14.11.2014   PÄÄTÖSKURSSI: 2,84
+
+PVM: 17.11.2014   PÄÄTÖSKURSSI: 2,80
+
+PVM: 18.11.2014   PÄÄTÖSKURSSI: 2,80
+
+PVM: 19.11.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 20.11.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 21.11.2014   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 24.11.2014   PÄÄTÖSKURSSI: 2,88
+
+PVM: 25.11.2014   PÄÄTÖSKURSSI: 2,87
+
+PVM: 26.11.2014   PÄÄTÖSKURSSI: 2,87
+
+PVM: 27.11.2014   PÄÄTÖSKURSSI: 2,90
+
+PVM: 28.11.2014   PÄÄTÖSKURSSI: 2,90
+
+PVM: 01.12.2014   PÄÄTÖSKURSSI: 2,90
+
+PVM: 02.12.2014   PÄÄTÖSKURSSI: 2,94
+
+PVM: 03.12.2014   PÄÄTÖSKURSSI: 2,94
+
+PVM: 04.12.2014   PÄÄTÖSKURSSI: 2,94
+
+PVM: 05.12.2014   PÄÄTÖSKURSSI: 2,80
+
+PVM: 08.12.2014   PÄÄTÖSKURSSI: 2,92
+
+PVM: 09.12.2014   PÄÄTÖSKURSSI: 2,92
+
+PVM: 10.12.2014   PÄÄTÖSKURSSI: 2,92
+
+PVM: 11.12.2014   PÄÄTÖSKURSSI: 2,92
+
+PVM: 12.12.2014   PÄÄTÖSKURSSI: 2,92
+
+PVM: 15.12.2014   PÄÄTÖSKURSSI: 2,94
+
+PVM: 16.12.2014   PÄÄTÖSKURSSI: 2,90
+
+PVM: 17.12.2014   PÄÄTÖSKURSSI: 2,90
+
+PVM: 18.12.2014   PÄÄTÖSKURSSI: 2,85
+
+PVM: 19.12.2014   PÄÄTÖSKURSSI: 3,00
+
+PVM: 22.12.2014   PÄÄTÖSKURSSI: 3,03
+
+PVM: 23.12.2014   PÄÄTÖSKURSSI: 3,10
+
+PVM: 29.12.2014   PÄÄTÖSKURSSI: 3,14
+
+PVM: 30.12.2014   PÄÄTÖSKURSSI: 3,00
+
+PVM: 02.01.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 05.01.2015   PÄÄTÖSKURSSI: 2,93
+
+PVM: 07.01.2015   PÄÄTÖSKURSSI: 3,40
+
+PVM: 08.01.2015   PÄÄTÖSKURSSI: 3,39
+
+PVM: 09.01.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 12.01.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 13.01.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 14.01.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 15.01.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 16.01.2015   PÄÄTÖSKURSSI: 3,20
+
+PVM: 19.01.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 20.01.2015   PÄÄTÖSKURSSI: 3,20
+
+PVM: 21.01.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 22.01.2015   PÄÄTÖSKURSSI: 3,15
+
+PVM: 23.01.2015   PÄÄTÖSKURSSI: 2,86
+
+PVM: 26.01.2015   PÄÄTÖSKURSSI: 3,10
+
+PVM: 27.01.2015   PÄÄTÖSKURSSI: 3,11
+
+PVM: 28.01.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 29.01.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 30.01.2015   PÄÄTÖSKURSSI: 3,11
+
+PVM: 02.02.2015   PÄÄTÖSKURSSI: 3,11
+
+PVM: 03.02.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 04.02.2015   PÄÄTÖSKURSSI: 3,08
+
+PVM: 05.02.2015   PÄÄTÖSKURSSI: 2,99
+
+PVM: 06.02.2015   PÄÄTÖSKURSSI: 2,92
+
+PVM: 09.02.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 10.02.2015   PÄÄTÖSKURSSI: 2,70
+
+PVM: 11.02.2015   PÄÄTÖSKURSSI: 2,74
+
+PVM: 12.02.2015   PÄÄTÖSKURSSI: 2,89
+
+PVM: 13.02.2015   PÄÄTÖSKURSSI: 2,60
+
+PVM: 16.02.2015   PÄÄTÖSKURSSI: 2,70
+
+PVM: 17.02.2015   PÄÄTÖSKURSSI: 3,11
+
+PVM: 18.02.2015   PÄÄTÖSKURSSI: 3,45
+
+PVM: 19.02.2015   PÄÄTÖSKURSSI: 3,10
+
+PVM: 20.02.2015   PÄÄTÖSKURSSI: 3,10
+
+PVM: 23.02.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 24.02.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 25.02.2015   PÄÄTÖSKURSSI: 3,10
+
+PVM: 26.02.2015   PÄÄTÖSKURSSI: 3,10
+
+PVM: 27.02.2015   PÄÄTÖSKURSSI: 3,10
+
+PVM: 02.03.2015   PÄÄTÖSKURSSI: 3,08
+
+PVM: 03.03.2015   PÄÄTÖSKURSSI: 3,09
+
+PVM: 04.03.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 05.03.2015   PÄÄTÖSKURSSI: 3,00
+
+PVM: 06.03.2015   PÄÄTÖSKURSSI: 3,09
+
+PVM: 09.03.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 10.03.2015   PÄÄTÖSKURSSI: 3,20
+
+PVM: 11.03.2015   PÄÄTÖSKURSSI: 3,20
+
+PVM: 12.03.2015   PÄÄTÖSKURSSI: 3,49
+
+PVM: 13.03.2015   PÄÄTÖSKURSSI: 3,49
+
+PVM: 16.03.2015   PÄÄTÖSKURSSI: 3,43
+
+PVM: 17.03.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 18.03.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 19.03.2015   PÄÄTÖSKURSSI: 2,97
+
+PVM: 20.03.2015   PÄÄTÖSKURSSI: 3,38
+
+PVM: 23.03.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 24.03.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 25.03.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 26.03.2015   PÄÄTÖSKURSSI: 3,01
+
+PVM: 27.03.2015   PÄÄTÖSKURSSI: 3,01
+
+PVM: 30.03.2015   PÄÄTÖSKURSSI: 3,32
+
+PVM: 31.03.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 01.04.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 02.04.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 07.04.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 08.04.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 09.04.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 10.04.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 13.04.2015   PÄÄTÖSKURSSI: 3,03
+
+PVM: 14.04.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 15.04.2015   PÄÄTÖSKURSSI: 3,09
+
+PVM: 16.04.2015   PÄÄTÖSKURSSI: 3,09
+
+PVM: 17.04.2015   PÄÄTÖSKURSSI: 3,25
+
+PVM: 20.04.2015   PÄÄTÖSKURSSI: 3,25
+
+PVM: 21.04.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 22.04.2015   PÄÄTÖSKURSSI: 3,25
+
+PVM: 23.04.2015   PÄÄTÖSKURSSI: 3,20
+
+PVM: 24.04.2015   PÄÄTÖSKURSSI: 3,01
+
+PVM: 27.04.2015   PÄÄTÖSKURSSI: 3,20
+
+PVM: 28.04.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 29.04.2015   PÄÄTÖSKURSSI: 3,01
+
+PVM: 30.04.2015   PÄÄTÖSKURSSI: 3,19
+
+PVM: 04.05.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 05.05.2015   PÄÄTÖSKURSSI: 3,19
+
+PVM: 06.05.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 07.05.2015   PÄÄTÖSKURSSI: 3,19
+
+PVM: 08.05.2015   PÄÄTÖSKURSSI: 3,19
+
+PVM: 11.05.2015   PÄÄTÖSKURSSI: 3,19
+
+PVM: 12.05.2015   PÄÄTÖSKURSSI: 3,19
+
+PVM: 13.05.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 15.05.2015   PÄÄTÖSKURSSI: 3,10
+
+PVM: 18.05.2015   PÄÄTÖSKURSSI: 3,10
+
+PVM: 19.05.2015   PÄÄTÖSKURSSI: 3,05
+
+PVM: 20.05.2015   PÄÄTÖSKURSSI: 3,05
+
+PVM: 21.05.2015   PÄÄTÖSKURSSI: 3,05
+
+PVM: 22.05.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 25.05.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 26.05.2015   PÄÄTÖSKURSSI: 3,00
+
+PVM: 27.05.2015   PÄÄTÖSKURSSI: 3,00
+
+PVM: 28.05.2015   PÄÄTÖSKURSSI: 3,03
+
+PVM: 29.05.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 01.06.2015   PÄÄTÖSKURSSI: 3,05
+
+PVM: 02.06.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 03.06.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 04.06.2015   PÄÄTÖSKURSSI: 3,05
+
+PVM: 05.06.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 08.06.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 09.06.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 10.06.2015   PÄÄTÖSKURSSI: 3,05
+
+PVM: 11.06.2015   PÄÄTÖSKURSSI: 3,00
+
+PVM: 12.06.2015   PÄÄTÖSKURSSI: 3,20
+
+PVM: 15.06.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 16.06.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 17.06.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 18.06.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 22.06.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 23.06.2015   PÄÄTÖSKURSSI: 3,30
+
+PVM: 24.06.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 25.06.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 26.06.2015   PÄÄTÖSKURSSI: 3,25
+
+PVM: 29.06.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 30.06.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 01.07.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 02.07.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 03.07.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 06.07.2015   PÄÄTÖSKURSSI: 3,25
+
+PVM: 07.07.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 08.07.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 09.07.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 10.07.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 13.07.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 14.07.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 15.07.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 16.07.2015   PÄÄTÖSKURSSI: 2,89
+
+PVM: 17.07.2015   PÄÄTÖSKURSSI: 2,90
+
+PVM: 20.07.2015   PÄÄTÖSKURSSI: 2,90
+
+PVM: 21.07.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 22.07.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 23.07.2015   PÄÄTÖSKURSSI: 2,90
+
+PVM: 24.07.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 27.07.2015   PÄÄTÖSKURSSI: 3,17
+
+PVM: 28.07.2015   PÄÄTÖSKURSSI: 2,95
+
+PVM: 29.07.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 30.07.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 31.07.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 03.08.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 04.08.2015   PÄÄTÖSKURSSI: 2,90
+
+PVM: 05.08.2015   PÄÄTÖSKURSSI: 2,95
+
+PVM: 06.08.2015   PÄÄTÖSKURSSI: 3,19
+
+PVM: 07.08.2015   PÄÄTÖSKURSSI: 2,90
+
+PVM: 10.08.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 11.08.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 12.08.2015   PÄÄTÖSKURSSI: 2,99
+
+PVM: 13.08.2015   PÄÄTÖSKURSSI: 2,97
+
+PVM: 14.08.2015   PÄÄTÖSKURSSI: 2,85
+
+PVM: 17.08.2015   PÄÄTÖSKURSSI: 2,82
+
+PVM: 18.08.2015   PÄÄTÖSKURSSI: 2,95
+
+PVM: 19.08.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 20.08.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 21.08.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 24.08.2015   PÄÄTÖSKURSSI: 2,45
+
+PVM: 25.08.2015   PÄÄTÖSKURSSI: 2,87
+
+PVM: 26.08.2015   PÄÄTÖSKURSSI: 2,74
+
+PVM: 27.08.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 28.08.2015   PÄÄTÖSKURSSI: 2,74
+
+PVM: 31.08.2015   PÄÄTÖSKURSSI: 2,55
+
+PVM: 01.09.2015   PÄÄTÖSKURSSI: 2,74
+
+PVM: 02.09.2015   PÄÄTÖSKURSSI: 2,74
+
+PVM: 03.09.2015   PÄÄTÖSKURSSI: 2,67
+
+PVM: 04.09.2015   PÄÄTÖSKURSSI: 2,75
+
+PVM: 07.09.2015   PÄÄTÖSKURSSI: 2,74
+
+PVM: 08.09.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 09.09.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 10.09.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 11.09.2015   PÄÄTÖSKURSSI: 2,66
+
+PVM: 14.09.2015   PÄÄTÖSKURSSI: 2,70
+
+PVM: 15.09.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 16.09.2015   PÄÄTÖSKURSSI: 2,69
+
+PVM: 17.09.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 18.09.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 21.09.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 22.09.2015   PÄÄTÖSKURSSI: 2,51
+
+PVM: 23.09.2015   PÄÄTÖSKURSSI: 2,49
+
+PVM: 24.09.2015   PÄÄTÖSKURSSI: 2,49
+
+PVM: 25.09.2015   PÄÄTÖSKURSSI: 2,50
+
+PVM: 28.09.2015   PÄÄTÖSKURSSI: 2,49
+
+PVM: 29.09.2015   PÄÄTÖSKURSSI: 2,70
+
+PVM: 30.09.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 01.10.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 02.10.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 05.10.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 06.10.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 07.10.2015   PÄÄTÖSKURSSI: 2,60
+
+PVM: 08.10.2015   PÄÄTÖSKURSSI: 2,60
+
+PVM: 09.10.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 12.10.2015   PÄÄTÖSKURSSI: 2,70
+
+PVM: 13.10.2015   PÄÄTÖSKURSSI: 2,70
+
+PVM: 14.10.2015   PÄÄTÖSKURSSI: 2,53
+
+PVM: 15.10.2015   PÄÄTÖSKURSSI: 2,60
+
+PVM: 16.10.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 19.10.2015   PÄÄTÖSKURSSI: 2,60
+
+PVM: 20.10.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 21.10.2015   PÄÄTÖSKURSSI: 2,60
+
+PVM: 22.10.2015   PÄÄTÖSKURSSI: 2,60
+
+PVM: 23.10.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 26.10.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 27.10.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 28.10.2015   PÄÄTÖSKURSSI: 2,58
+
+PVM: 29.10.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 30.10.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 02.11.2015   PÄÄTÖSKURSSI: 2,58
+
+PVM: 03.11.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 04.11.2015   PÄÄTÖSKURSSI: 2,58
+
+PVM: 05.11.2015   PÄÄTÖSKURSSI: 2,40
+
+PVM: 06.11.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 09.11.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 10.11.2015   PÄÄTÖSKURSSI: 2,58
+
+PVM: 11.11.2015   PÄÄTÖSKURSSI: 2,50
+
+PVM: 12.11.2015   PÄÄTÖSKURSSI: 2,48
+
+PVM: 13.11.2015   PÄÄTÖSKURSSI: 2,58
+
+PVM: 16.11.2015   PÄÄTÖSKURSSI: 2,58
+
+PVM: 17.11.2015   PÄÄTÖSKURSSI: 2,49
+
+PVM: 18.11.2015   PÄÄTÖSKURSSI: 2,58
+
+PVM: 19.11.2015   PÄÄTÖSKURSSI: 2,57
+
+PVM: 20.11.2015   PÄÄTÖSKURSSI: 2,58
+
+PVM: 23.11.2015   PÄÄTÖSKURSSI: 2,55
+
+PVM: 24.11.2015   PÄÄTÖSKURSSI: 2,50
+
+PVM: 25.11.2015   PÄÄTÖSKURSSI: 2,39
+
+PVM: 26.11.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 27.11.2015   PÄÄTÖSKURSSI: 2,40
+
+PVM: 30.11.2015   PÄÄTÖSKURSSI: 2,41
+
+PVM: 01.12.2015   PÄÄTÖSKURSSI: 2,44
+
+PVM: 02.12.2015   PÄÄTÖSKURSSI: 2,52
+
+PVM: 03.12.2015   PÄÄTÖSKURSSI: 2,56
+
+PVM: 04.12.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 07.12.2015   PÄÄTÖSKURSSI: 2,56
+
+PVM: 08.12.2015   PÄÄTÖSKURSSI: 2,47
+
+PVM: 09.12.2015   PÄÄTÖSKURSSI: 2,47
+
+PVM: 10.12.2015   PÄÄTÖSKURSSI: 2,57
+
+PVM: 11.12.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 14.12.2015   PÄÄTÖSKURSSI: 2,47
+
+PVM: 15.12.2015   PÄÄTÖSKURSSI: 2,50
+
+PVM: 16.12.2015   PÄÄTÖSKURSSI: 2,47
+
+PVM: 17.12.2015   PÄÄTÖSKURSSI: 2,47
+
+PVM: 18.12.2015   PÄÄTÖSKURSSI: 2,47
+
+PVM: 21.12.2015   PÄÄTÖSKURSSI: 2,58
+
+PVM: 22.12.2015   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 23.12.2015   PÄÄTÖSKURSSI: 2,55
+
+PVM: 28.12.2015   PÄÄTÖSKURSSI: 2,38
+
+PVM: 29.12.2015   PÄÄTÖSKURSSI: 2,30
+
+PVM: 30.12.2015   PÄÄTÖSKURSSI: 2,47
+
+PVM: 04.01.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 05.01.2016   PÄÄTÖSKURSSI: 2,35
+
+PVM: 07.01.2016   PÄÄTÖSKURSSI: 2,49
+
+PVM: 08.01.2016   PÄÄTÖSKURSSI: 2,22
+
+PVM: 11.01.2016   PÄÄTÖSKURSSI: 2,50
+
+PVM: 12.01.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 13.01.2016   PÄÄTÖSKURSSI: 2,50
+
+PVM: 14.01.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 15.01.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 18.01.2016   PÄÄTÖSKURSSI: 2,49
+
+PVM: 19.01.2016   PÄÄTÖSKURSSI: 2,48
+
+PVM: 20.01.2016   PÄÄTÖSKURSSI: 2,34
+
+PVM: 21.01.2016   PÄÄTÖSKURSSI: 2,59
+
+PVM: 22.01.2016   PÄÄTÖSKURSSI: 2,56
+
+PVM: 25.01.2016   PÄÄTÖSKURSSI: 2,59
+
+PVM: 26.01.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 27.01.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 28.01.2016   PÄÄTÖSKURSSI: 2,41
+
+PVM: 29.01.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 01.02.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 02.02.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 03.02.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 04.02.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 05.02.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 08.02.2016   PÄÄTÖSKURSSI: 2,44
+
+PVM: 09.02.2016   PÄÄTÖSKURSSI: 2,44
+
+PVM: 10.02.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 11.02.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 12.02.2016   PÄÄTÖSKURSSI: 2,30
+
+PVM: 15.02.2016   PÄÄTÖSKURSSI: 2,37
+
+PVM: 16.02.2016   PÄÄTÖSKURSSI: 2,57
+
+PVM: 17.02.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 18.02.2016   PÄÄTÖSKURSSI: 2,56
+
+PVM: 19.02.2016   PÄÄTÖSKURSSI: 2,45
+
+PVM: 22.02.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 23.02.2016   PÄÄTÖSKURSSI: 2,35
+
+PVM: 24.02.2016   PÄÄTÖSKURSSI: 2,35
+
+PVM: 25.02.2016   PÄÄTÖSKURSSI: 2,35
+
+PVM: 26.02.2016   PÄÄTÖSKURSSI: 2,58
+
+PVM: 29.02.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 01.03.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 02.03.2016   PÄÄTÖSKURSSI: 2,58
+
+PVM: 03.03.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 04.03.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 07.03.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 08.03.2016   PÄÄTÖSKURSSI: 2,36
+
+PVM: 09.03.2016   PÄÄTÖSKURSSI: 2,31
+
+PVM: 10.03.2016   PÄÄTÖSKURSSI: 2,34
+
+PVM: 11.03.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 14.03.2016   PÄÄTÖSKURSSI: 2,34
+
+PVM: 15.03.2016   PÄÄTÖSKURSSI: 2,35
+
+PVM: 16.03.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 17.03.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 18.03.2016   PÄÄTÖSKURSSI: 2,56
+
+PVM: 21.03.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 22.03.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 23.03.2016   PÄÄTÖSKURSSI: 2,39
+
+PVM: 24.03.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 29.03.2016   PÄÄTÖSKURSSI: 2,41
+
+PVM: 30.03.2016   PÄÄTÖSKURSSI: 2,43
+
+PVM: 31.03.2016   PÄÄTÖSKURSSI: 2,44
+
+PVM: 01.04.2016   PÄÄTÖSKURSSI: 2,43
+
+PVM: 04.04.2016   PÄÄTÖSKURSSI: 2,43
+
+PVM: 05.04.2016   PÄÄTÖSKURSSI: 2,52
+
+PVM: 06.04.2016   PÄÄTÖSKURSSI: 2,41
+
+PVM: 07.04.2016   PÄÄTÖSKURSSI: 2,43
+
+PVM: 08.04.2016   PÄÄTÖSKURSSI: 2,42
+
+PVM: 11.04.2016   PÄÄTÖSKURSSI: 2,59
+
+PVM: 12.04.2016   PÄÄTÖSKURSSI: 2,50
+
+PVM: 13.04.2016   PÄÄTÖSKURSSI: 2,58
+
+PVM: 14.04.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 15.04.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 18.04.2016   PÄÄTÖSKURSSI: 2,58
+
+PVM: 19.04.2016   PÄÄTÖSKURSSI: 2,60
+
+PVM: 20.04.2016   PÄÄTÖSKURSSI: 2,80
+
+PVM: 21.04.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 22.04.2016   PÄÄTÖSKURSSI: 2,50
+
+PVM: 25.04.2016   PÄÄTÖSKURSSI: 2,53
+
+PVM: 26.04.2016   PÄÄTÖSKURSSI: 2,60
+
+PVM: 27.04.2016   PÄÄTÖSKURSSI: 2,60
+
+PVM: 28.04.2016   PÄÄTÖSKURSSI: 2,55
+
+PVM: 29.04.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 02.05.2016   PÄÄTÖSKURSSI: 2,75
+
+PVM: 03.05.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 04.05.2016   PÄÄTÖSKURSSI: 2,75
+
+PVM: 06.05.2016   PÄÄTÖSKURSSI: 2,60
+
+PVM: 09.05.2016   PÄÄTÖSKURSSI: 2,52
+
+PVM: 10.05.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 11.05.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 12.05.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 13.05.2016   PÄÄTÖSKURSSI: 2,57
+
+PVM: 16.05.2016   PÄÄTÖSKURSSI: 2,75
+
+PVM: 17.05.2016   PÄÄTÖSKURSSI: 2,60
+
+PVM: 18.05.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 19.05.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 20.05.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 23.05.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 24.05.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 25.05.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 26.05.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 27.05.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 30.05.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 31.05.2016   PÄÄTÖSKURSSI: 2,58
+
+PVM: 01.06.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 02.06.2016   PÄÄTÖSKURSSI: 2,59
+
+PVM: 03.06.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 06.06.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 07.06.2016   PÄÄTÖSKURSSI: 2,75
+
+PVM: 08.06.2016   PÄÄTÖSKURSSI: 2,60
+
+PVM: 09.06.2016   PÄÄTÖSKURSSI: 2,61
+
+PVM: 10.06.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 13.06.2016   PÄÄTÖSKURSSI: 2,43
+
+PVM: 14.06.2016   PÄÄTÖSKURSSI: 2,50
+
+PVM: 15.06.2016   PÄÄTÖSKURSSI: 2,65
+
+PVM: 16.06.2016   PÄÄTÖSKURSSI: 2,50
+
+PVM: 17.06.2016   PÄÄTÖSKURSSI: 2,48
+
+PVM: 20.06.2016   PÄÄTÖSKURSSI: 2,47
+
+PVM: 21.06.2016   PÄÄTÖSKURSSI: 2,35
+
+PVM: 22.06.2016   PÄÄTÖSKURSSI: 2,35
+
+PVM: 23.06.2016   PÄÄTÖSKURSSI: 2,26
+
+PVM: 27.06.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 28.06.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 29.06.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 30.06.2016   PÄÄTÖSKURSSI: 2,25
+
+PVM: 01.07.2016   PÄÄTÖSKURSSI: 2,25
+
+PVM: 04.07.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 05.07.2016   PÄÄTÖSKURSSI: 2,29
+
+PVM: 06.07.2016   PÄÄTÖSKURSSI: 2,30
+
+PVM: 07.07.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 08.07.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 11.07.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 12.07.2016   PÄÄTÖSKURSSI: 2,35
+
+PVM: 13.07.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 14.07.2016   PÄÄTÖSKURSSI: 2,65
+
+PVM: 15.07.2016   PÄÄTÖSKURSSI: 2,90
+
+PVM: 18.07.2016   PÄÄTÖSKURSSI: 2,43
+
+PVM: 19.07.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 20.07.2016   PÄÄTÖSKURSSI: 2,63
+
+PVM: 21.07.2016   PÄÄTÖSKURSSI: 2,60
+
+PVM: 22.07.2016   PÄÄTÖSKURSSI: 2,69
+
+PVM: 25.07.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 26.07.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 27.07.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 28.07.2016   PÄÄTÖSKURSSI: 2,50
+
+PVM: 29.07.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 01.08.2016   PÄÄTÖSKURSSI: 2,51
+
+PVM: 02.08.2016   PÄÄTÖSKURSSI: 2,60
+
+PVM: 03.08.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 04.08.2016   PÄÄTÖSKURSSI: 2,47
+
+PVM: 05.08.2016   PÄÄTÖSKURSSI: 2,66
+
+PVM: 08.08.2016   PÄÄTÖSKURSSI: 2,64
+
+PVM: 09.08.2016   PÄÄTÖSKURSSI: 2,55
+
+PVM: 10.08.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 11.08.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 12.08.2016   PÄÄTÖSKURSSI: 2,46
+
+PVM: 15.08.2016   PÄÄTÖSKURSSI: 2,46
+
+PVM: 16.08.2016   PÄÄTÖSKURSSI: 2,47
+
+PVM: 17.08.2016   PÄÄTÖSKURSSI: 2,50
+
+PVM: 18.08.2016   PÄÄTÖSKURSSI: 2,44
+
+PVM: 19.08.2016   PÄÄTÖSKURSSI: 2,50
+
+PVM: 22.08.2016   PÄÄTÖSKURSSI: 2,46
+
+PVM: 23.08.2016   PÄÄTÖSKURSSI: 2,45
+
+PVM: 24.08.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 25.08.2016   PÄÄTÖSKURSSI: 2,57
+
+PVM: 26.08.2016   PÄÄTÖSKURSSI: 2,62
+
+PVM: 29.08.2016   PÄÄTÖSKURSSI: 2,96
+
+PVM: 30.08.2016   PÄÄTÖSKURSSI: 2,73
+
+PVM: 31.08.2016   PÄÄTÖSKURSSI: 2,99
+
+PVM: 01.09.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 02.09.2016   PÄÄTÖSKURSSI: 3,10
+
+PVM: 05.09.2016   PÄÄTÖSKURSSI: 3,43
+
+PVM: 06.09.2016   PÄÄTÖSKURSSI: 3,00
+
+PVM: 07.09.2016   PÄÄTÖSKURSSI: 3,01
+
+PVM: 08.09.2016   PÄÄTÖSKURSSI: 3,14
+
+PVM: 09.09.2016   PÄÄTÖSKURSSI: 3,48
+
+PVM: 12.09.2016   PÄÄTÖSKURSSI: 3,49
+
+PVM: 13.09.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 14.09.2016   PÄÄTÖSKURSSI: 3,20
+
+PVM: 15.09.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 16.09.2016   PÄÄTÖSKURSSI: 3,37
+
+PVM: 19.09.2016   PÄÄTÖSKURSSI: 3,28
+
+PVM: 20.09.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 21.09.2016   PÄÄTÖSKURSSI: 3,30
+
+PVM: 22.09.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 23.09.2016   PÄÄTÖSKURSSI: 3,42
+
+PVM: 26.09.2016   PÄÄTÖSKURSSI: 3,34
+
+PVM: 27.09.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 28.09.2016   PÄÄTÖSKURSSI: 3,32
+
+PVM: 29.09.2016   PÄÄTÖSKURSSI: 3,31
+
+PVM: 30.09.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 03.10.2016   PÄÄTÖSKURSSI: 3,30
+
+PVM: 04.10.2016   PÄÄTÖSKURSSI: 3,30
+
+PVM: 05.10.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 06.10.2016   PÄÄTÖSKURSSI: 3,29
+
+PVM: 07.10.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 10.10.2016   PÄÄTÖSKURSSI: 3,28
+
+PVM: 11.10.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 12.10.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 13.10.2016   PÄÄTÖSKURSSI: 3,37
+
+PVM: 14.10.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 17.10.2016   PÄÄTÖSKURSSI: 3,28
+
+PVM: 18.10.2016   PÄÄTÖSKURSSI: 3,27
+
+PVM: 19.10.2016   PÄÄTÖSKURSSI: 3,33
+
+PVM: 20.10.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 21.10.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 24.10.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 25.10.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 26.10.2016   PÄÄTÖSKURSSI: 3,40
+
+PVM: 27.10.2016   PÄÄTÖSKURSSI: 3,28
+
+PVM: 28.10.2016   PÄÄTÖSKURSSI: 3,28
+
+PVM: 31.10.2016   PÄÄTÖSKURSSI: 3,28
+
+PVM: 01.11.2016   PÄÄTÖSKURSSI: 3,05
+
+PVM: 02.11.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 03.11.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 04.11.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 07.11.2016   PÄÄTÖSKURSSI: 3,24
+
+PVM: 08.11.2016   PÄÄTÖSKURSSI: 3,05
+
+PVM: 09.11.2016   PÄÄTÖSKURSSI: 3,10
+
+PVM: 10.11.2016   PÄÄTÖSKURSSI: 2,97
+
+PVM: 11.11.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 14.11.2016   PÄÄTÖSKURSSI: 2,95
+
+PVM: 15.11.2016   PÄÄTÖSKURSSI: 3,00
+
+PVM: 16.11.2016   PÄÄTÖSKURSSI: 2,99
+
+PVM: 17.11.2016   PÄÄTÖSKURSSI: 2,99
+
+PVM: 18.11.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 21.11.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 22.11.2016   PÄÄTÖSKURSSI: 2,99
+
+PVM: 23.11.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 24.11.2016   PÄÄTÖSKURSSI: 2,98
+
+PVM: 25.11.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 28.11.2016   PÄÄTÖSKURSSI: 2,98
+
+PVM: 29.11.2016   PÄÄTÖSKURSSI: 2,98
+
+PVM: 30.11.2016   PÄÄTÖSKURSSI: 2,99
+
+PVM: 01.12.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 02.12.2016   PÄÄTÖSKURSSI: 2,99
+
+PVM: 05.12.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 07.12.2016   PÄÄTÖSKURSSI: 3,02
+
+PVM: 08.12.2016   PÄÄTÖSKURSSI: 3,02
+
+PVM: 09.12.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 12.12.2016   PÄÄTÖSKURSSI: 3,02
+
+PVM: 13.12.2016   PÄÄTÖSKURSSI: 2,89
+
+PVM: 14.12.2016   PÄÄTÖSKURSSI: 3,00
+
+PVM: 15.12.2016   PÄÄTÖSKURSSI: 3,29
+
+PVM: 16.12.2016   PÄÄTÖSKURSSI: 3,22
+
+PVM: 19.12.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 20.12.2016   PÄÄTÖSKURSSI: 3,20
+
+PVM: 21.12.2016   PÄÄTÖSKURSSI: 3,20
+
+PVM: 22.12.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 23.12.2016   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 27.12.2016   PÄÄTÖSKURSSI: 3,06
+
+PVM: 28.12.2016   PÄÄTÖSKURSSI: 3,10
+
+PVM: 29.12.2016   PÄÄTÖSKURSSI: 3,00
+
+PVM: 30.12.2016   PÄÄTÖSKURSSI: 3,09
+
+PVM: 02.01.2017   PÄÄTÖSKURSSI: 3,09
+
+PVM: 03.01.2017   PÄÄTÖSKURSSI: 3,05
+
+PVM: 04.01.2017   PÄÄTÖSKURSSI: 3,10
+
+PVM: 05.01.2017   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 09.01.2017   PÄÄTÖSKURSSI: 3,47
+
+PVM: 10.01.2017   PÄÄTÖSKURSSI: 3,46
+
+PVM: 11.01.2017   PÄÄTÖSKURSSI: 3,30
+
+PVM: 12.01.2017   PÄÄTÖSKURSSI: 3,30
+
+PVM: 13.01.2017   PÄÄTÖSKURSSI: 3,45
+
+PVM: 16.01.2017   PÄÄTÖSKURSSI: 3,43
+
+PVM: 17.01.2017   PÄÄTÖSKURSSI: 3,24
+
+PVM: 18.01.2017   PÄÄTÖSKURSSI: 3,26
+
+PVM: 19.01.2017   PÄÄTÖSKURSSI: 3,43
+
+PVM: 20.01.2017   PÄÄTÖSKURSSI: 3,48
+
+PVM: 23.01.2017   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 24.01.2017   PÄÄTÖSKURSSI: 3,34
+
+PVM: 25.01.2017   PÄÄTÖSKURSSI: 3,38
+
+PVM: 26.01.2017   PÄÄTÖSKURSSI: 3,44
+
+PVM: 27.01.2017   PÄÄTÖSKURSSI: 3,26
+
+PVM: 30.01.2017   PÄÄTÖSKURSSI: 3,25
+
+PVM: 31.01.2017   PÄÄTÖSKURSSI: 3,24
+
+PVM: 01.02.2017   PÄÄTÖSKURSSI: 3,20
+
+PVM: 02.02.2017   PÄÄTÖSKURSSI: 3,15
+
+PVM: 03.02.2017   PÄÄTÖSKURSSI: 3,07
+
+PVM: 06.02.2017   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 07.02.2017   PÄÄTÖSKURSSI: 3,10
+
+PVM: 08.02.2017   PÄÄTÖSKURSSI: 3,09
+
+PVM: 09.02.2017   PÄÄTÖSKURSSI: 3,09
+
+PVM: 10.02.2017   PÄÄTÖSKURSSI: 3,19
+
+PVM: 13.02.2017   PÄÄTÖSKURSSI: 3,20
+
+PVM: 14.02.2017   PÄÄTÖSKURSSI: 3,22
+
+PVM: 15.02.2017   PÄÄTÖSKURSSI: 3,22
+
+PVM: 16.02.2017   PÄÄTÖSKURSSI: 3,22
+
+PVM: 17.02.2017   PÄÄTÖSKURSSI: 3,21
+
+PVM: 20.02.2017   PÄÄTÖSKURSSI: 3,25
+
+PVM: 21.02.2017   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 22.02.2017   PÄÄTÖSKURSSI: 3,20
+
+PVM: 23.02.2017   PÄÄTÖSKURSSI: 3,20
+
+PVM: 24.02.2017   PÄÄTÖSKURSSI: 3,16
+
+PVM: 27.02.2017   PÄÄTÖSKURSSI: 3,14
+
+PVM: 28.02.2017   PÄÄTÖSKURSSI: 3,05
+
+PVM: 01.03.2017   PÄÄTÖSKURSSI: 3,18
+
+PVM: 02.03.2017   PÄÄTÖSKURSSI: 3,20
+
+PVM: 03.03.2017   PÄÄTÖSKURSSI: 3,20
+
+PVM: 06.03.2017   PÄÄTÖSKURSSI: 3,27
+
+PVM: 07.03.2017   PÄÄTÖSKURSSI: 3,26
+
+PVM: 08.03.2017   PÄÄTÖSKURSSI: 3,20
+
+PVM: 09.03.2017   PÄÄTÖSKURSSI: 3,24
+
+PVM: 10.03.2017   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 13.03.2017   PÄÄTÖSKURSSI: 3,11
+
+PVM: 14.03.2017   PÄÄTÖSKURSSI: 3,08
+
+PVM: 15.03.2017   PÄÄTÖSKURSSI: 3,08
+
+PVM: 16.03.2017   PÄÄTÖSKURSSI: 3,25
+
+PVM: 17.03.2017   PÄÄTÖSKURSSI: 3,07
+
+PVM: 20.03.2017   PÄÄTÖSKURSSI: 3,26
+
+PVM: 21.03.2017   PÄÄTÖSKURSSI: 3,08
+
+PVM: 22.03.2017   PÄÄTÖSKURSSI: 3,06
+
+PVM: 23.03.2017   PÄÄTÖSKURSSI: 3,01
+
+PVM: 24.03.2017   PÄÄTÖSKURSSI: 3,06
+
+PVM: 27.03.2017   PÄÄTÖSKURSSI: 3,05
+
+PVM: 28.03.2017   PÄÄTÖSKURSSI: 3,20
+
+PVM: 29.03.2017   PÄÄTÖSKURSSI: 3,16
+
+PVM: 30.03.2017   PÄÄTÖSKURSSI: 3,08
+
+PVM: 31.03.2017   PÄÄTÖSKURSSI: 3,12
+
+PVM: 03.04.2017   PÄÄTÖSKURSSI: 3,13
+
+PVM: 04.04.2017   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 05.04.2017   PÄÄTÖSKURSSI: 3,10
+
+PVM: 06.04.2017   PÄÄTÖSKURSSI: 3,07
+
+PVM: 07.04.2017   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 10.04.2017   PÄÄTÖSKURSSI: 3,14
+
+PVM: 11.04.2017   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 12.04.2017   PÄÄTÖSKURSSI: 3,11
+
+PVM: 13.04.2017   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 18.04.2017   PÄÄTÖSKURSSI: 3,10
+
+PVM: 19.04.2017   PÄÄTÖSKURSSI: 3,11
+
+PVM: 20.04.2017   PÄÄTÖSKURSSI: 3,10
+
+PVM: 21.04.2017   PÄÄTÖSKURSSI: 3,11
+
+PVM: 24.04.2017   PÄÄTÖSKURSSI: 3,06
+
+PVM: 25.04.2017   PÄÄTÖSKURSSI: 3,06
+
+PVM: 26.04.2017   PÄÄTÖSKURSSI: 3,00
+
+PVM: 27.04.2017   PÄÄTÖSKURSSI: 2,98
+
+PVM: 28.04.2017   PÄÄTÖSKURSSI: 3,06
+
+PVM: 02.05.2017   PÄÄTÖSKURSSI: 3,06
+
+PVM: 03.05.2017   PÄÄTÖSKURSSI: 3,06
+
+PVM: 04.05.2017   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 05.05.2017   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 08.05.2017   PÄÄTÖSKURSSI: 3,19
+
+PVM: 09.05.2017   PÄÄTÖSKURSSI: 3,19
+
+PVM: 10.05.2017   PÄÄTÖSKURSSI: 3,19
+
+PVM: 11.05.2017   PÄÄTÖSKURSSI: 3,18
+
+PVM: 12.05.2017   PÄÄTÖSKURSSI: 3,19
+
+PVM: 15.05.2017   PÄÄTÖSKURSSI: 3,28
+
+PVM: 16.05.2017   PÄÄTÖSKURSSI: 3,27
+
+PVM: 17.05.2017   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 18.05.2017   PÄÄTÖSKURSSI: 3,24
+
+PVM: 19.05.2017   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 22.05.2017   PÄÄTÖSKURSSI: 3,24
+
+PVM: 23.05.2017   PÄÄTÖSKURSSI: 3,24
+
+PVM: 24.05.2017   PÄÄTÖSKURSSI: 3,23
+
+PVM: 26.05.2017   PÄÄTÖSKURSSI: 3,22
+
+PVM: 29.05.2017   PÄÄTÖSKURSSI: 3,19
+
+PVM: 30.05.2017   PÄÄTÖSKURSSI: 3,30
+
+PVM: 31.05.2017   PÄÄTÖSKURSSI: 4,00
+
+PVM: 01.06.2017   PÄÄTÖSKURSSI: 3,52
+
+PVM: 02.06.2017   PÄÄTÖSKURSSI: 3,52
+
+PVM: 05.06.2017   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 06.06.2017   PÄÄTÖSKURSSI: 3,45
+
+PVM: 07.06.2017   PÄÄTÖSKURSSI: 3,45
+
+PVM: 08.06.2017   PÄÄTÖSKURSSI: 3,59
+
+PVM: 09.06.2017   PÄÄTÖSKURSSI: 3,47
+
+PVM: 12.06.2017   PÄÄTÖSKURSSI: 3,45
+
+PVM: 13.06.2017   PÄÄTÖSKURSSI: 3,40
+
+PVM: 14.06.2017   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 15.06.2017   PÄÄTÖSKURSSI: 3,49
+
+PVM: 16.06.2017   PÄÄTÖSKURSSI: 3,40
+
+PVM: 19.06.2017   PÄÄTÖSKURSSI: 3,37
+
+PVM: 20.06.2017   PÄÄTÖSKURSSI: 3,30
+
+PVM: 21.06.2017   PÄÄTÖSKURSSI: 3,30
+
+PVM: 22.06.2017   PÄÄTÖSKURSSI: 3,53
+
+PVM: 26.06.2017   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 27.06.2017   PÄÄTÖSKURSSI: 3,20
+
+PVM: 28.06.2017   PÄÄTÖSKURSSI: 3,36
+
+PVM: 29.06.2017   PÄÄTÖSKURSSI: 3,20
+
+PVM: 30.06.2017   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 03.07.2017   PÄÄTÖSKURSSI: 3,20
+
+PVM: 04.07.2017   PÄÄTÖSKURSSI: 3,49
+
+PVM: 05.07.2017   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 06.07.2017   PÄÄTÖSKURSSI: 3,41
+
+PVM: 07.07.2017   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 10.07.2017   PÄÄTÖSKURSSI: 3,26
+
+PVM: 11.07.2017   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 12.07.2017   PÄÄTÖSKURSSI: 3,20
+
+PVM: 13.07.2017   PÄÄTÖSKURSSI: 3,33
+
+PVM: 14.07.2017   PÄÄTÖSKURSSI: 3,38
+
+PVM: 17.07.2017   PÄÄTÖSKURSSI: 3,35
+
+PVM: 18.07.2017   PÄÄTÖSKURSSI: 3,35
+
+PVM: 19.07.2017   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 20.07.2017   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 21.07.2017   PÄÄTÖSKURSSI: 3,37
+
+PVM: 24.07.2017   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 25.07.2017   PÄÄTÖSKURSSI: 3,30
+
+PVM: 26.07.2017   PÄÄTÖSKURSSI: 3,34
+
+PVM: 27.07.2017   PÄÄTÖSKURSSI: 3,30
+
+PVM: 28.07.2017   PÄÄTÖSKURSSI: 3,37
+
+PVM: 31.07.2017   PÄÄTÖSKURSSI: 3,37
+
+PVM: 01.08.2017   PÄÄTÖSKURSSI: 3,30
+
+PVM: 02.08.2017   PÄÄTÖSKURSSI: 3,38
+
+PVM: 03.08.2017   PÄÄTÖSKURSSI: 3,30
+
+PVM: 04.08.2017   PÄÄTÖSKURSSI: 3,49
+
+PVM: 07.08.2017   PÄÄTÖSKURSSI: 3,49
+
+PVM: 08.08.2017   PÄÄTÖSKURSSI: 3,63
+
+PVM: 09.08.2017   PÄÄTÖSKURSSI: 3,63
+
+PVM: 10.08.2017   PÄÄTÖSKURSSI: 3,50
+
+PVM: 11.08.2017   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 14.08.2017   PÄÄTÖSKURSSI: 3,39
+
+PVM: 15.08.2017   PÄÄTÖSKURSSI: 3,39
+
+PVM: 16.08.2017   PÄÄTÖSKURSSI: 3,31
+
+PVM: 17.08.2017   PÄÄTÖSKURSSI: 3,56
+
+PVM: 18.08.2017   PÄÄTÖSKURSSI: 3,35
+
+PVM: 21.08.2017   PÄÄTÖSKURSSI: 3,35
+
+PVM: 22.08.2017   PÄÄTÖSKURSSI: 3,69
+
+PVM: 23.08.2017   PÄÄTÖSKURSSI: 3,60
+
+PVM: 24.08.2017   PÄÄTÖSKURSSI: 3,40
+
+PVM: 25.08.2017   PÄÄTÖSKURSSI: 3,40
+
+PVM: 28.08.2017   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 29.08.2017   PÄÄTÖSKURSSI: 3,30
+
+PVM: 30.08.2017   PÄÄTÖSKURSSI: 3,32
+
+PVM: 31.08.2017   PÄÄTÖSKURSSI: 3,32
+
+PVM: 01.09.2017   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 04.09.2017   PÄÄTÖSKURSSI: 3,31
+
+PVM: 05.09.2017   PÄÄTÖSKURSSI: 3,54
+
+PVM: 06.09.2017   PÄÄTÖSKURSSI: 3,55
+
+PVM: 07.09.2017   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 08.09.2017   PÄÄTÖSKURSSI: 3,54
+
+PVM: 11.09.2017   PÄÄTÖSKURSSI: 3,50
+
+PVM: 12.09.2017   PÄÄTÖSKURSSI: 3,36
+
+PVM: 13.09.2017   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 14.09.2017   PÄÄTÖSKURSSI: 3,56
+
+PVM: 15.09.2017   PÄÄTÖSKURSSI: 3,46
+
+PVM: 18.09.2017   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 19.09.2017   PÄÄTÖSKURSSI: 3,46
+
+PVM: 20.09.2017   PÄÄTÖSKURSSI: 3,40
+
+PVM: 21.09.2017   PÄÄTÖSKURSSI: 3,52
+
+PVM: 22.09.2017   PÄÄTÖSKURSSI: 3,53
+
+PVM: 25.09.2017   PÄÄTÖSKURSSI: 3,35
+
+PVM: 26.09.2017   PÄÄTÖSKURSSI: 3,53
+
+PVM: 27.09.2017   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 28.09.2017   PÄÄTÖSKURSSI: 3,40
+
+PVM: 29.09.2017   PÄÄTÖSKURSSI: 3,40
+
+PVM: 02.10.2017   PÄÄTÖSKURSSI: 3,54
+
+PVM: 03.10.2017   PÄÄTÖSKURSSI: 3,42
+
+PVM: 04.10.2017   PÄÄTÖSKURSSI: 3,42
+
+PVM: 05.10.2017   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 06.10.2017   PÄÄTÖSKURSSI: 3,42
+
+PVM: 09.10.2017   PÄÄTÖSKURSSI: 3,56
+
+PVM: 10.10.2017   PÄÄTÖSKURSSI: 3,42
+
+PVM: 11.10.2017   PÄÄTÖSKURSSI: 3,30
+
+PVM: 12.10.2017   PÄÄTÖSKURSSI: 3,31
+
+PVM: 13.10.2017   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 16.10.2017   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 17.10.2017   PÄÄTÖSKURSSI: 3,50
+
+PVM: 18.10.2017   PÄÄTÖSKURSSI: 3,40
+
+PVM: 19.10.2017   PÄÄTÖSKURSSI: 3,46
+
+PVM: 20.10.2017   PÄÄTÖSKURSSI: 3,54
+
+PVM: 23.10.2017   PÄÄTÖSKURSSI: 3,55
+
+PVM: 24.10.2017   PÄÄTÖSKURSSI: 3,40
+
+PVM: 25.10.2017   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 26.10.2017   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 27.10.2017   PÄÄTÖSKURSSI: 3,74
+
+PVM: 30.10.2017   PÄÄTÖSKURSSI: 3,70
+
+PVM: 31.10.2017   PÄÄTÖSKURSSI: 3,71
+
+PVM: 01.11.2017   PÄÄTÖSKURSSI: 3,70
+
+PVM: 02.11.2017   PÄÄTÖSKURSSI: 3,85
+
+PVM: 03.11.2017   PÄÄTÖSKURSSI: 3,90
+
+PVM: 06.11.2017   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 07.11.2017   PÄÄTÖSKURSSI: 3,81
+
+PVM: 08.11.2017   PÄÄTÖSKURSSI: 3,87
+
+PVM: 09.11.2017   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 10.11.2017   PÄÄTÖSKURSSI: 3,78
+
+PVM: 13.11.2017   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 14.11.2017   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 15.11.2017   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 16.11.2017   PÄÄTÖSKURSSI: 3,77
+
+PVM: 17.11.2017   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 20.11.2017   PÄÄTÖSKURSSI: 3,70
+
+PVM: 21.11.2017   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 22.11.2017   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 23.11.2017   PÄÄTÖSKURSSI: 3,80
+
+PVM: 24.11.2017   PÄÄTÖSKURSSI: 3,79
+
+PVM: 27.11.2017   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 28.11.2017   PÄÄTÖSKURSSI: 3,79
+
+PVM: 29.11.2017   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 30.11.2017   PÄÄTÖSKURSSI: 3,79
+
+PVM: 01.12.2017   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 04.12.2017   PÄÄTÖSKURSSI: 3,70
+
+PVM: 05.12.2017   PÄÄTÖSKURSSI: 3,70
+
+PVM: 07.12.2017   PÄÄTÖSKURSSI: 3,73
+
+PVM: 08.12.2017   PÄÄTÖSKURSSI: 3,71
+
+PVM: 11.12.2017   PÄÄTÖSKURSSI: 3,73
+
+PVM: 12.12.2017   PÄÄTÖSKURSSI: 3,54
+
+PVM: 13.12.2017   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 14.12.2017   PÄÄTÖSKURSSI: 3,60
+
+PVM: 15.12.2017   PÄÄTÖSKURSSI: 3,59
+
+PVM: 18.12.2017   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 19.12.2017   PÄÄTÖSKURSSI: 3,55
+
+PVM: 20.12.2017   PÄÄTÖSKURSSI: 3,55
+
+PVM: 21.12.2017   PÄÄTÖSKURSSI: 3,60
+
+PVM: 22.12.2017   PÄÄTÖSKURSSI: 3,67
+
+PVM: 27.12.2017   PÄÄTÖSKURSSI: 3,80
+
+PVM: 28.12.2017   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 29.12.2017   PÄÄTÖSKURSSI: 3,79
+
+PVM: 02.01.2018   PÄÄTÖSKURSSI: 3,78
+
+PVM: 03.01.2018   PÄÄTÖSKURSSI: 3,88
+
+PVM: 04.01.2018   PÄÄTÖSKURSSI: 3,78
+
+PVM: 05.01.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 08.01.2018   PÄÄTÖSKURSSI: 3,64
+
+PVM: 09.01.2018   PÄÄTÖSKURSSI: 3,80
+
+PVM: 10.01.2018   PÄÄTÖSKURSSI: 3,80
+
+PVM: 11.01.2018   PÄÄTÖSKURSSI: 3,80
+
+PVM: 12.01.2018   PÄÄTÖSKURSSI: 3,70
+
+PVM: 15.01.2018   PÄÄTÖSKURSSI: 3,64
+
+PVM: 16.01.2018   PÄÄTÖSKURSSI: 3,64
+
+PVM: 17.01.2018   PÄÄTÖSKURSSI: 3,88
+
+PVM: 18.01.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 19.01.2018   PÄÄTÖSKURSSI: 3,90
+
+PVM: 22.01.2018   PÄÄTÖSKURSSI: 3,92
+
+PVM: 23.01.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 24.01.2018   PÄÄTÖSKURSSI: 4,00
+
+PVM: 25.01.2018   PÄÄTÖSKURSSI: 4,02
+
+PVM: 26.01.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 29.01.2018   PÄÄTÖSKURSSI: 4,06
+
+PVM: 30.01.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 31.01.2018   PÄÄTÖSKURSSI: 4,08
+
+PVM: 01.02.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 02.02.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 05.02.2018   PÄÄTÖSKURSSI: 4,08
+
+PVM: 06.02.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 07.02.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 08.02.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 09.02.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 12.02.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 13.02.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 14.02.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 15.02.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 16.02.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 19.02.2018   PÄÄTÖSKURSSI: 4,20
+
+PVM: 20.02.2018   PÄÄTÖSKURSSI: 4,04
+
+PVM: 21.02.2018   PÄÄTÖSKURSSI: 4,10
+
+PVM: 22.02.2018   PÄÄTÖSKURSSI: 3,92
+
+PVM: 23.02.2018   PÄÄTÖSKURSSI: 3,90
+
+PVM: 26.02.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 27.02.2018   PÄÄTÖSKURSSI: 3,70
+
+PVM: 28.02.2018   PÄÄTÖSKURSSI: 3,70
+
+PVM: 01.03.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 02.03.2018   PÄÄTÖSKURSSI: 3,72
+
+PVM: 05.03.2018   PÄÄTÖSKURSSI: 3,74
+
+PVM: 06.03.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 07.03.2018   PÄÄTÖSKURSSI: 3,80
+
+PVM: 08.03.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 09.03.2018   PÄÄTÖSKURSSI: 3,74
+
+PVM: 12.03.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 13.03.2018   PÄÄTÖSKURSSI: 3,72
+
+PVM: 14.03.2018   PÄÄTÖSKURSSI: 3,72
+
+PVM: 15.03.2018   PÄÄTÖSKURSSI: 3,70
+
+PVM: 16.03.2018   PÄÄTÖSKURSSI: 3,68
+
+PVM: 19.03.2018   PÄÄTÖSKURSSI: 3,68
+
+PVM: 20.03.2018   PÄÄTÖSKURSSI: 3,68
+
+PVM: 21.03.2018   PÄÄTÖSKURSSI: 3,64
+
+PVM: 22.03.2018   PÄÄTÖSKURSSI: 3,64
+
+PVM: 23.03.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 26.03.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 27.03.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 28.03.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 29.03.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 03.04.2018   PÄÄTÖSKURSSI: 3,50
+
+PVM: 04.04.2018   PÄÄTÖSKURSSI: 3,60
+
+PVM: 05.04.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 06.04.2018   PÄÄTÖSKURSSI: 3,50
+
+PVM: 09.04.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 10.04.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 11.04.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 12.04.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 13.04.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 16.04.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 17.04.2018   PÄÄTÖSKURSSI: 3,56
+
+PVM: 18.04.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 19.04.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 20.04.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 23.04.2018   PÄÄTÖSKURSSI: 3,56
+
+PVM: 24.04.2018   PÄÄTÖSKURSSI: 3,52
+
+PVM: 25.04.2018   PÄÄTÖSKURSSI: 3,56
+
+PVM: 26.04.2018   PÄÄTÖSKURSSI: 3,52
+
+PVM: 27.04.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 30.04.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 02.05.2018   PÄÄTÖSKURSSI: 3,56
+
+PVM: 03.05.2018   PÄÄTÖSKURSSI: 3,54
+
+PVM: 04.05.2018   PÄÄTÖSKURSSI: 3,56
+
+PVM: 07.05.2018   PÄÄTÖSKURSSI: 3,74
+
+PVM: 08.05.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 09.05.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 11.05.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 14.05.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 15.05.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 16.05.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 17.05.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 18.05.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 21.05.2018   PÄÄTÖSKURSSI: 3,60
+
+PVM: 22.05.2018   PÄÄTÖSKURSSI: 3,60
+
+PVM: 23.05.2018   PÄÄTÖSKURSSI: 3,60
+
+PVM: 24.05.2018   PÄÄTÖSKURSSI: 3,60
+
+PVM: 25.05.2018   PÄÄTÖSKURSSI: 3,70
+
+PVM: 28.05.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 29.05.2018   PÄÄTÖSKURSSI: 3,56
+
+PVM: 30.05.2018   PÄÄTÖSKURSSI: 3,70
+
+PVM: 31.05.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 01.06.2018   PÄÄTÖSKURSSI: 3,60
+
+PVM: 04.06.2018   PÄÄTÖSKURSSI: 3,60
+
+PVM: 05.06.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 06.06.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 07.06.2018   PÄÄTÖSKURSSI: 3,60
+
+PVM: 08.06.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 11.06.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 12.06.2018   PÄÄTÖSKURSSI: 3,60
+
+PVM: 13.06.2018   PÄÄTÖSKURSSI: 3,60
+
+PVM: 14.06.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 15.06.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 18.06.2018   PÄÄTÖSKURSSI: 3,60
+
+PVM: 19.06.2018   PÄÄTÖSKURSSI: 3,62
+
+PVM: 20.06.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 21.06.2018   PÄÄTÖSKURSSI: 3,62
+
+PVM: 25.06.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 26.06.2018   PÄÄTÖSKURSSI: 3,60
+
+PVM: 27.06.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 28.06.2018   PÄÄTÖSKURSSI: 3,60
+
+PVM: 29.06.2018   PÄÄTÖSKURSSI: 3,62
+
+PVM: 02.07.2018   PÄÄTÖSKURSSI: 3,60
+
+PVM: 03.07.2018   PÄÄTÖSKURSSI: 3,60
+
+PVM: 04.07.2018   PÄÄTÖSKURSSI: 3,70
+
+PVM: 05.07.2018   PÄÄTÖSKURSSI: 3,50
+
+PVM: 06.07.2018   PÄÄTÖSKURSSI: 3,50
+
+PVM: 09.07.2018   PÄÄTÖSKURSSI: 3,50
+
+PVM: 10.07.2018   PÄÄTÖSKURSSI: 3,56
+
+PVM: 11.07.2018   PÄÄTÖSKURSSI: 3,56
+
+PVM: 12.07.2018   PÄÄTÖSKURSSI: 3,50
+
+PVM: 13.07.2018   PÄÄTÖSKURSSI: 3,50
+
+PVM: 16.07.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 17.07.2018   PÄÄTÖSKURSSI: 3,48
+
+PVM: 18.07.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 19.07.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 20.07.2018   PÄÄTÖSKURSSI: 3,30
+
+PVM: 23.07.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 24.07.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 25.07.2018   PÄÄTÖSKURSSI: 3,58
+
+PVM: 26.07.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 27.07.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 30.07.2018   PÄÄTÖSKURSSI: 3,36
+
+PVM: 31.07.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 01.08.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 02.08.2018   PÄÄTÖSKURSSI: 3,36
+
+PVM: 03.08.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 06.08.2018   PÄÄTÖSKURSSI: 3,52
+
+PVM: 07.08.2018   PÄÄTÖSKURSSI: 3,52
+
+PVM: 08.08.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 09.08.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 10.08.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 13.08.2018   PÄÄTÖSKURSSI: 3,36
+
+PVM: 14.08.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 15.08.2018   PÄÄTÖSKURSSI: 3,40
+
+PVM: 16.08.2018   PÄÄTÖSKURSSI: 3,40
+
+PVM: 17.08.2018   PÄÄTÖSKURSSI: 3,40
+
+PVM: 20.08.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 21.08.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 22.08.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 23.08.2018   PÄÄTÖSKURSSI: 3,40
+
+PVM: 24.08.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 27.08.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 28.08.2018   PÄÄTÖSKURSSI: 3,40
+
+PVM: 29.08.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 30.08.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 31.08.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 03.09.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 04.09.2018   PÄÄTÖSKURSSI: 3,42
+
+PVM: 05.09.2018   PÄÄTÖSKURSSI: 3,40
+
+PVM: 06.09.2018   PÄÄTÖSKURSSI: 3,40
+
+PVM: 07.09.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 10.09.2018   PÄÄTÖSKURSSI: 3,40
+
+PVM: 11.09.2018   PÄÄTÖSKURSSI: 3,50
+
+PVM: 12.09.2018   PÄÄTÖSKURSSI: 3,50
+
+PVM: 13.09.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 14.09.2018   PÄÄTÖSKURSSI: 3,50
+
+PVM: 17.09.2018   PÄÄTÖSKURSSI: 3,30
+
+PVM: 18.09.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 19.09.2018   PÄÄTÖSKURSSI: 3,30
+
+PVM: 20.09.2018   PÄÄTÖSKURSSI: 3,30
+
+PVM: 21.09.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 24.09.2018   PÄÄTÖSKURSSI: 3,42
+
+PVM: 25.09.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 26.09.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 27.09.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 28.09.2018   PÄÄTÖSKURSSI: 3,16
+
+PVM: 01.10.2018   PÄÄTÖSKURSSI: 3,30
+
+PVM: 02.10.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 03.10.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 04.10.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 05.10.2018   PÄÄTÖSKURSSI: 3,40
+
+PVM: 08.10.2018   PÄÄTÖSKURSSI: 3,36
+
+PVM: 09.10.2018   PÄÄTÖSKURSSI: 3,40
+
+PVM: 10.10.2018   PÄÄTÖSKURSSI: 3,40
+
+PVM: 11.10.2018   PÄÄTÖSKURSSI: 3,30
+
+PVM: 12.10.2018   PÄÄTÖSKURSSI: 3,48
+
+PVM: 15.10.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 16.10.2018   PÄÄTÖSKURSSI: 3,30
+
+PVM: 17.10.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 18.10.2018   PÄÄTÖSKURSSI: 3,32
+
+PVM: 19.10.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 22.10.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 23.10.2018   PÄÄTÖSKURSSI: 3,38
+
+PVM: 24.10.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 25.10.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 26.10.2018   PÄÄTÖSKURSSI: 3,20
+
+PVM: 29.10.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 30.10.2018   PÄÄTÖSKURSSI: 3,32
+
+PVM: 31.10.2018   PÄÄTÖSKURSSI: 3,32
+
+PVM: 01.11.2018   PÄÄTÖSKURSSI: 3,32
+
+PVM: 02.11.2018   PÄÄTÖSKURSSI: 3,36
+
+PVM: 05.11.2018   PÄÄTÖSKURSSI: 3,52
+
+PVM: 06.11.2018   PÄÄTÖSKURSSI: 3,50
+
+PVM: 07.11.2018   PÄÄTÖSKURSSI: 3,66
+
+PVM: 08.11.2018   PÄÄTÖSKURSSI: 3,46
+
+PVM: 09.11.2018   PÄÄTÖSKURSSI: 3,46
+
+PVM: 12.11.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 13.11.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 14.11.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 15.11.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 16.11.2018   PÄÄTÖSKURSSI: 4,00
+
+PVM: 19.11.2018   PÄÄTÖSKURSSI: 3,96
+
+PVM: 20.11.2018   PÄÄTÖSKURSSI: 3,96
+
+PVM: 21.11.2018   PÄÄTÖSKURSSI: 3,94
+
+PVM: 22.11.2018   PÄÄTÖSKURSSI: 3,80
+
+PVM: 23.11.2018   PÄÄTÖSKURSSI: 3,88
+
+PVM: 26.11.2018   PÄÄTÖSKURSSI: 3,90
+
+PVM: 27.11.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 28.11.2018   PÄÄTÖSKURSSI: 4,00
+
+PVM: 29.11.2018   PÄÄTÖSKURSSI: 3,96
+
+PVM: 30.11.2018   PÄÄTÖSKURSSI: 3,86
+
+PVM: 03.12.2018   PÄÄTÖSKURSSI: 3,86
+
+PVM: 04.12.2018   PÄÄTÖSKURSSI: 3,80
+
+PVM: 05.12.2018   PÄÄTÖSKURSSI: 3,80
+
+PVM: 07.12.2018   PÄÄTÖSKURSSI: 3,88
+
+PVM: 10.12.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 11.12.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 12.12.2018   PÄÄTÖSKURSSI: 3,80
+
+PVM: 13.12.2018   PÄÄTÖSKURSSI: 3,90
+
+PVM: 14.12.2018   PÄÄTÖSKURSSI: 4,28
+
+PVM: 17.12.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 18.12.2018   PÄÄTÖSKURSSI: 4,00
+
+PVM: 19.12.2018   PÄÄTÖSKURSSI: 4,00
+
+PVM: 20.12.2018   PÄÄTÖSKURSSI: 3,72
+
+PVM: 21.12.2018   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 27.12.2018   PÄÄTÖSKURSSI: 3,70
+
+PVM: 28.12.2018   PÄÄTÖSKURSSI: 4,00
+
+PVM: 02.01.2019   PÄÄTÖSKURSSI: 4,18
+
+PVM: 03.01.2019   PÄÄTÖSKURSSI: 4,00
+
+PVM: 04.01.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 07.01.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 08.01.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 09.01.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 10.01.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 11.01.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 14.01.2019   PÄÄTÖSKURSSI: 3,98
+
+PVM: 15.01.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 16.01.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 17.01.2019   PÄÄTÖSKURSSI: 3,98
+
+PVM: 18.01.2019   PÄÄTÖSKURSSI: 3,96
+
+PVM: 21.01.2019   PÄÄTÖSKURSSI: 3,86
+
+PVM: 22.01.2019   PÄÄTÖSKURSSI: 3,86
+
+PVM: 23.01.2019   PÄÄTÖSKURSSI: 3,90
+
+PVM: 24.01.2019   PÄÄTÖSKURSSI: 3,90
+
+PVM: 25.01.2019   PÄÄTÖSKURSSI: 3,90
+
+PVM: 28.01.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 29.01.2019   PÄÄTÖSKURSSI: 3,92
+
+PVM: 30.01.2019   PÄÄTÖSKURSSI: 3,90
+
+PVM: 31.01.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 01.02.2019   PÄÄTÖSKURSSI: 3,90
+
+PVM: 04.02.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 05.02.2019   PÄÄTÖSKURSSI: 3,94
+
+PVM: 06.02.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 07.02.2019   PÄÄTÖSKURSSI: 4,18
+
+PVM: 08.02.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 11.02.2019   PÄÄTÖSKURSSI: 3,94
+
+PVM: 12.02.2019   PÄÄTÖSKURSSI: 3,96
+
+PVM: 13.02.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 14.02.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 15.02.2019   PÄÄTÖSKURSSI: 4,10
+
+PVM: 18.02.2019   PÄÄTÖSKURSSI: 4,24
+
+PVM: 19.02.2019   PÄÄTÖSKURSSI: 4,28
+
+PVM: 20.02.2019   PÄÄTÖSKURSSI: 4,00
+
+PVM: 21.02.2019   PÄÄTÖSKURSSI: 4,00
+
+PVM: 22.02.2019   PÄÄTÖSKURSSI: 4,00
+
+PVM: 25.02.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 26.02.2019   PÄÄTÖSKURSSI: 4,24
+
+PVM: 27.02.2019   PÄÄTÖSKURSSI: 4,30
+
+PVM: 28.02.2019   PÄÄTÖSKURSSI: 4,30
+
+PVM: 01.03.2019   PÄÄTÖSKURSSI: 4,12
+
+PVM: 04.03.2019   PÄÄTÖSKURSSI: 4,12
+
+PVM: 05.03.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 06.03.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 07.03.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 08.03.2019   PÄÄTÖSKURSSI: 4,22
+
+PVM: 11.03.2019   PÄÄTÖSKURSSI: 4,26
+
+PVM: 12.03.2019   PÄÄTÖSKURSSI: 4,40
+
+PVM: 13.03.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 14.03.2019   PÄÄTÖSKURSSI: 4,50
+
+PVM: 15.03.2019   PÄÄTÖSKURSSI: 4,50
+
+PVM: 18.03.2019   PÄÄTÖSKURSSI: 4,52
+
+PVM: 19.03.2019   PÄÄTÖSKURSSI: 4,50
+
+PVM: 20.03.2019   PÄÄTÖSKURSSI: 4,52
+
+PVM: 21.03.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 22.03.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 25.03.2019   PÄÄTÖSKURSSI: 4,56
+
+PVM: 26.03.2019   PÄÄTÖSKURSSI: 4,50
+
+PVM: 27.03.2019   PÄÄTÖSKURSSI: 4,50
+
+PVM: 28.03.2019   PÄÄTÖSKURSSI: 4,20
+
+PVM: 29.03.2019   PÄÄTÖSKURSSI: 4,20
+
+PVM: 01.04.2019   PÄÄTÖSKURSSI: 4,24
+
+PVM: 02.04.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 03.04.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 04.04.2019   PÄÄTÖSKURSSI: 4,40
+
+PVM: 05.04.2019   PÄÄTÖSKURSSI: 4,36
+
+PVM: 08.04.2019   PÄÄTÖSKURSSI: 4,36
+
+PVM: 09.04.2019   PÄÄTÖSKURSSI: 4,26
+
+PVM: 10.04.2019   PÄÄTÖSKURSSI: 4,50
+
+PVM: 11.04.2019   PÄÄTÖSKURSSI: 4,24
+
+PVM: 12.04.2019   PÄÄTÖSKURSSI: 4,32
+
+PVM: 15.04.2019   PÄÄTÖSKURSSI: 4,30
+
+PVM: 16.04.2019   PÄÄTÖSKURSSI: 4,38
+
+PVM: 17.04.2019   PÄÄTÖSKURSSI: 4,26
+
+PVM: 18.04.2019   PÄÄTÖSKURSSI: 4,26
+
+PVM: 23.04.2019   PÄÄTÖSKURSSI: 4,26
+
+PVM: 24.04.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 25.04.2019   PÄÄTÖSKURSSI: 4,06
+
+PVM: 26.04.2019   PÄÄTÖSKURSSI: 4,08
+
+PVM: 29.04.2019   PÄÄTÖSKURSSI: 4,12
+
+PVM: 30.04.2019   PÄÄTÖSKURSSI: 4,34
+
+PVM: 02.05.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 03.05.2019   PÄÄTÖSKURSSI: 4,36
+
+PVM: 06.05.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 07.05.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 08.05.2019   PÄÄTÖSKURSSI: 4,34
+
+PVM: 09.05.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 10.05.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 13.05.2019   PÄÄTÖSKURSSI: 4,12
+
+PVM: 14.05.2019   PÄÄTÖSKURSSI: 4,12
+
+PVM: 15.05.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 16.05.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 17.05.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 20.05.2019   PÄÄTÖSKURSSI: 4,12
+
+PVM: 21.05.2019   PÄÄTÖSKURSSI: 4,12
+
+PVM: 22.05.2019   PÄÄTÖSKURSSI: 4,12
+
+PVM: 23.05.2019   PÄÄTÖSKURSSI: 4,04
+
+PVM: 24.05.2019   PÄÄTÖSKURSSI: 4,02
+
+PVM: 27.05.2019   PÄÄTÖSKURSSI: 4,30
+
+PVM: 28.05.2019   PÄÄTÖSKURSSI: 4,24
+
+PVM: 29.05.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 31.05.2019   PÄÄTÖSKURSSI: 4,24
+
+PVM: 03.06.2019   PÄÄTÖSKURSSI: 4,18
+
+PVM: 04.06.2019   PÄÄTÖSKURSSI: 4,20
+
+PVM: 05.06.2019   PÄÄTÖSKURSSI: 4,20
+
+PVM: 06.06.2019   PÄÄTÖSKURSSI: 4,20
+
+PVM: 07.06.2019   PÄÄTÖSKURSSI: 4,00
+
+PVM: 10.06.2019   PÄÄTÖSKURSSI: 4,28
+
+PVM: 11.06.2019   PÄÄTÖSKURSSI: 4,10
+
+PVM: 12.06.2019   PÄÄTÖSKURSSI: 4,30
+
+PVM: 13.06.2019   PÄÄTÖSKURSSI: 4,28
+
+PVM: 14.06.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 17.06.2019   PÄÄTÖSKURSSI: 3,82
+
+PVM: 18.06.2019   PÄÄTÖSKURSSI: 4,08
+
+PVM: 19.06.2019   PÄÄTÖSKURSSI: 4,00
+
+PVM: 20.06.2019   PÄÄTÖSKURSSI: 4,00
+
+PVM: 24.06.2019   PÄÄTÖSKURSSI: 3,88
+
+PVM: 25.06.2019   PÄÄTÖSKURSSI: 4,10
+
+PVM: 26.06.2019   PÄÄTÖSKURSSI: 3,86
+
+PVM: 27.06.2019   PÄÄTÖSKURSSI: 3,74
+
+PVM: 28.06.2019   PÄÄTÖSKURSSI: 3,86
+
+PVM: 01.07.2019   PÄÄTÖSKURSSI: 3,76
+
+PVM: 02.07.2019   PÄÄTÖSKURSSI: 3,82
+
+PVM: 03.07.2019   PÄÄTÖSKURSSI: 3,88
+
+PVM: 04.07.2019   PÄÄTÖSKURSSI: 3,90
+
+PVM: 05.07.2019   PÄÄTÖSKURSSI: 3,90
+
+PVM: 08.07.2019   PÄÄTÖSKURSSI: 3,90
+
+PVM: 09.07.2019   PÄÄTÖSKURSSI: 3,88
+
+PVM: 10.07.2019   PÄÄTÖSKURSSI: 3,80
+
+PVM: 11.07.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 12.07.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 15.07.2019   PÄÄTÖSKURSSI: 3,98
+
+PVM: 16.07.2019   PÄÄTÖSKURSSI: 3,98
+
+PVM: 17.07.2019   PÄÄTÖSKURSSI: 3,96
+
+PVM: 18.07.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 19.07.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 22.07.2019   PÄÄTÖSKURSSI: 3,92
+
+PVM: 23.07.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 24.07.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 25.07.2019   PÄÄTÖSKURSSI: 3,94
+
+PVM: 26.07.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 29.07.2019   PÄÄTÖSKURSSI: 3,96
+
+PVM: 30.07.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 31.07.2019   PÄÄTÖSKURSSI: 3,98
+
+PVM: 01.08.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 02.08.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 05.08.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 06.08.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 07.08.2019   PÄÄTÖSKURSSI: 3,60
+
+PVM: 08.08.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 09.08.2019   PÄÄTÖSKURSSI: 3,70
+
+PVM: 12.08.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 13.08.2019   PÄÄTÖSKURSSI: 3,80
+
+PVM: 14.08.2019   PÄÄTÖSKURSSI: 3,90
+
+PVM: 15.08.2019   PÄÄTÖSKURSSI: 3,72
+
+PVM: 16.08.2019   PÄÄTÖSKURSSI: 3,80
+
+PVM: 19.08.2019   PÄÄTÖSKURSSI: 3,70
+
+PVM: 20.08.2019   PÄÄTÖSKURSSI: 3,70
+
+PVM: 21.08.2019   PÄÄTÖSKURSSI: 3,80
+
+PVM: 22.08.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 23.08.2019   PÄÄTÖSKURSSI: 3,80
+
+PVM: 26.08.2019   PÄÄTÖSKURSSI: 3,70
+
+PVM: 27.08.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 28.08.2019   PÄÄTÖSKURSSI: 3,70
+
+PVM: 29.08.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 30.08.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 02.09.2019   PÄÄTÖSKURSSI: 3,98
+
+PVM: 03.09.2019   PÄÄTÖSKURSSI: 3,98
+
+PVM: 04.09.2019   PÄÄTÖSKURSSI: 3,98
+
+PVM: 05.09.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 06.09.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 09.09.2019   PÄÄTÖSKURSSI: 3,84
+
+PVM: 10.09.2019   PÄÄTÖSKURSSI: 3,90
+
+PVM: 11.09.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 12.09.2019   PÄÄTÖSKURSSI: 3,92
+
+PVM: 13.09.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 16.09.2019   PÄÄTÖSKURSSI: 3,92
+
+PVM: 17.09.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 18.09.2019   PÄÄTÖSKURSSI: 3,94
+
+PVM: 19.09.2019   PÄÄTÖSKURSSI: 4,14
+
+PVM: 20.09.2019   PÄÄTÖSKURSSI: 4,10
+
+PVM: 23.09.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 24.09.2019   PÄÄTÖSKURSSI: 4,00
+
+PVM: 25.09.2019   PÄÄTÖSKURSSI: 4,00
+
+PVM: 26.09.2019   PÄÄTÖSKURSSI: 4,00
+
+PVM: 27.09.2019   PÄÄTÖSKURSSI: 4,00
+
+PVM: 30.09.2019   PÄÄTÖSKURSSI: 3,92
+
+PVM: 01.10.2019   PÄÄTÖSKURSSI: 4,06
+
+PVM: 02.10.2019   PÄÄTÖSKURSSI: 3,98
+
+PVM: 03.10.2019   PÄÄTÖSKURSSI: 4,04
+
+PVM: 04.10.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 07.10.2019   PÄÄTÖSKURSSI: 3,86
+
+PVM: 08.10.2019   PÄÄTÖSKURSSI: 3,94
+
+PVM: 09.10.2019   PÄÄTÖSKURSSI: 3,86
+
+PVM: 10.10.2019   PÄÄTÖSKURSSI: 3,86
+
+PVM: 11.10.2019   PÄÄTÖSKURSSI: 3,86
+
+PVM: 14.10.2019   PÄÄTÖSKURSSI: 3,84
+
+PVM: 15.10.2019   PÄÄTÖSKURSSI: 3,86
+
+PVM: 16.10.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 17.10.2019   PÄÄTÖSKURSSI: 3,94
+
+PVM: 18.10.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 21.10.2019   PÄÄTÖSKURSSI: 3,94
+
+PVM: 22.10.2019   PÄÄTÖSKURSSI: 3,92
+
+PVM: 23.10.2019   PÄÄTÖSKURSSI: 3,94
+
+PVM: 24.10.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 25.10.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 28.10.2019   PÄÄTÖSKURSSI: 4,02
+
+PVM: 29.10.2019   PÄÄTÖSKURSSI: 4,02
+
+PVM: 30.10.2019   PÄÄTÖSKURSSI: 4,02
+
+PVM: 31.10.2019   PÄÄTÖSKURSSI: 4,08
+
+PVM: 01.11.2019   PÄÄTÖSKURSSI: 4,06
+
+PVM: 04.11.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 05.11.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 06.11.2019   PÄÄTÖSKURSSI: 3,84
+
+PVM: 07.11.2019   PÄÄTÖSKURSSI: 3,96
+
+PVM: 08.11.2019   PÄÄTÖSKURSSI: 3,96
+
+PVM: 11.11.2019   PÄÄTÖSKURSSI: 3,84
+
+PVM: 12.11.2019   PÄÄTÖSKURSSI: 3,80
+
+PVM: 13.11.2019   PÄÄTÖSKURSSI: 3,76
+
+PVM: 14.11.2019   PÄÄTÖSKURSSI: 3,76
+
+PVM: 15.11.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 18.11.2019   PÄÄTÖSKURSSI: 3,80
+
+PVM: 19.11.2019   PÄÄTÖSKURSSI: 3,78
+
+PVM: 20.11.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 21.11.2019   PÄÄTÖSKURSSI: 4,00
+
+PVM: 22.11.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 25.11.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 26.11.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 27.11.2019   PÄÄTÖSKURSSI: 3,76
+
+PVM: 28.11.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 29.11.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 02.12.2019   PÄÄTÖSKURSSI: 3,76
+
+PVM: 03.12.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 04.12.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 05.12.2019   PÄÄTÖSKURSSI: 3,80
+
+PVM: 09.12.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 10.12.2019   PÄÄTÖSKURSSI: 3,78
+
+PVM: 11.12.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 12.12.2019   PÄÄTÖSKURSSI: 3,80
+
+PVM: 13.12.2019   PÄÄTÖSKURSSI: 3,80
+
+PVM: 16.12.2019   PÄÄTÖSKURSSI: 3,84
+
+PVM: 17.12.2019   PÄÄTÖSKURSSI: 3,82
+
+PVM: 18.12.2019   PÄÄTÖSKURSSI: 3,88
+
+PVM: 19.12.2019   PÄÄTÖSKURSSI: 3,86
+
+PVM: 20.12.2019   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 23.12.2019   PÄÄTÖSKURSSI: 3,90
+
+PVM: 27.12.2019   PÄÄTÖSKURSSI: 3,80
+
+PVM: 30.12.2019   PÄÄTÖSKURSSI: 3,94
+
+PVM: 02.01.2020   PÄÄTÖSKURSSI: 4,12
+
+PVM: 03.01.2020   PÄÄTÖSKURSSI: 4,10
+
+PVM: 07.01.2020   PÄÄTÖSKURSSI: 4,00
+
+PVM: 08.01.2020   PÄÄTÖSKURSSI: 4,10
+
+PVM: 09.01.2020   PÄÄTÖSKURSSI: 4,10
+
+PVM: 10.01.2020   PÄÄTÖSKURSSI: 4,10
+
+PVM: 13.01.2020   PÄÄTÖSKURSSI: 4,00
+
+PVM: 14.01.2020   PÄÄTÖSKURSSI: 4,00
+
+PVM: 15.01.2020   PÄÄTÖSKURSSI: 4,36
+
+PVM: 16.01.2020   PÄÄTÖSKURSSI: 4,38
+
+PVM: 17.01.2020   PÄÄTÖSKURSSI: 4,30
+
+PVM: 20.01.2020   PÄÄTÖSKURSSI: 4,32
+
+PVM: 21.01.2020   PÄÄTÖSKURSSI: 4,30
+
+PVM: 22.01.2020   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 23.01.2020   PÄÄTÖSKURSSI: 4,16
+
+PVM: 24.01.2020   PÄÄTÖSKURSSI: 4,32
+
+PVM: 27.01.2020   PÄÄTÖSKURSSI: 4,20
+
+PVM: 28.01.2020   PÄÄTÖSKURSSI: 4,20
+
+PVM: 29.01.2020   PÄÄTÖSKURSSI: 4,16
+
+PVM: 30.01.2020   PÄÄTÖSKURSSI: 4,20
+
+PVM: 31.01.2020   PÄÄTÖSKURSSI: 4,20
+
+PVM: 03.02.2020   PÄÄTÖSKURSSI: 4,20
+
+PVM: 04.02.2020   PÄÄTÖSKURSSI: 4,36
+
+PVM: 05.02.2020   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 06.02.2020   PÄÄTÖSKURSSI: 4,38
+
+PVM: 07.02.2020   PÄÄTÖSKURSSI: 4,32
+
+PVM: 10.02.2020   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 11.02.2020   PÄÄTÖSKURSSI: 4,40
+
+PVM: 12.02.2020   PÄÄTÖSKURSSI: 4,40
+
+PVM: 13.02.2020   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 14.02.2020   PÄÄTÖSKURSSI: 4,42
+
+PVM: 17.02.2020   PÄÄTÖSKURSSI: 4,20
+
+PVM: 18.02.2020   PÄÄTÖSKURSSI: 4,20
+
+PVM: 19.02.2020   PÄÄTÖSKURSSI: 4,20
+
+PVM: 20.02.2020   PÄÄTÖSKURSSI: 4,46
+
+PVM: 21.02.2020   PÄÄTÖSKURSSI: 4,46
+
+PVM: 24.02.2020   PÄÄTÖSKURSSI: 4,20
+
+PVM: 25.02.2020   PÄÄTÖSKURSSI: 4,20
+
+PVM: 26.02.2020   PÄÄTÖSKURSSI: 4,12
+
+PVM: 27.02.2020   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 28.02.2020   PÄÄTÖSKURSSI: 3,90
+
+PVM: 02.03.2020   PÄÄTÖSKURSSI: 4,26
+
+PVM: 03.03.2020   PÄÄTÖSKURSSI: 4,00
+
+PVM: 04.03.2020   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 05.03.2020   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 06.03.2020   PÄÄTÖSKURSSI: 4,00
+
+PVM: 09.03.2020   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 10.03.2020   PÄÄTÖSKURSSI: 3,78
+
+PVM: 11.03.2020   PÄÄTÖSKURSSI: 3,80
+
+PVM: 12.03.2020   PÄÄTÖSKURSSI: 3,56
+
+PVM: 13.03.2020   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 16.03.2020   PÄÄTÖSKURSSI: 3,16
+
+PVM: 17.03.2020   PÄÄTÖSKURSSI: 3,94
+
+PVM: 18.03.2020   PÄÄTÖSKURSSI: 3,40
+
+PVM: 19.03.2020   PÄÄTÖSKURSSI: 3,80
+
+PVM: 20.03.2020   PÄÄTÖSKURSSI: 3,40
+
+PVM: 23.03.2020   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 24.03.2020   PÄÄTÖSKURSSI: 3,80
+
+PVM: 25.03.2020   PÄÄTÖSKURSSI: 3,42
+
+PVM: 26.03.2020   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 27.03.2020   PÄÄTÖSKURSSI: 3,42
+
+PVM: 30.03.2020   PÄÄTÖSKURSSI: 3,78
+
+PVM: 31.03.2020   PÄÄTÖSKURSSI: 3,78
+
+PVM: 01.04.2020   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 02.04.2020   PÄÄTÖSKURSSI: 3,78
+
+PVM: 03.04.2020   PÄÄTÖSKURSSI: 3,66
+
+PVM: 06.04.2020   PÄÄTÖSKURSSI: 3,78
+
+PVM: 07.04.2020   PÄÄTÖSKURSSI: 3,88
+
+PVM: 08.04.2020   PÄÄTÖSKURSSI: 3,88
+
+PVM: 09.04.2020   PÄÄTÖSKURSSI: 3,90
+
+PVM: 14.04.2020   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 15.04.2020   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 16.04.2020   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 17.04.2020   PÄÄTÖSKURSSI: 3,96
+
+PVM: 20.04.2020   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 21.04.2020   PÄÄTÖSKURSSI: 3,96
+
+PVM: 22.04.2020   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 23.04.2020   PÄÄTÖSKURSSI: 4,00
+
+PVM: 24.04.2020   PÄÄTÖSKURSSI: 4,12
+
+PVM: 27.04.2020   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 28.04.2020   PÄÄTÖSKURSSI: 4,08
+
+PVM: 29.04.2020   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 30.04.2020   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 04.05.2020   PÄÄTÖSKURSSI: 3,62
+
+PVM: 05.05.2020   PÄÄTÖSKURSSI: 3,62
+
+PVM: 06.05.2020   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 07.05.2020   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 08.05.2020   PÄÄTÖSKURSSI: 3,62
+
+PVM: 11.05.2020   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 12.05.2020   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 13.05.2020   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 14.05.2020   PÄÄTÖSKURSSI: 3,62
+
+PVM: 15.05.2020   PÄÄTÖSKURSSI: 3,62
+
+PVM: 18.05.2020   PÄÄTÖSKURSSI: 3,58
+
+PVM: 19.05.2020   PÄÄTÖSKURSSI: 3,62
+
+PVM: 20.05.2020   PÄÄTÖSKURSSI: 3,62
+
+PVM: 22.05.2020   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 25.05.2020   PÄÄTÖSKURSSI: 3,66
+
+PVM: 26.05.2020   PÄÄTÖSKURSSI: 3,68
+
+PVM: 27.05.2020   PÄÄTÖSKURSSI: 3,68
+
+PVM: 28.05.2020   PÄÄTÖSKURSSI: 3,68
+
+PVM: 29.05.2020   PÄÄTÖSKURSSI: 3,70
+
+PVM: 01.06.2020   PÄÄTÖSKURSSI: 3,78
+
+PVM: 02.06.2020   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 03.06.2020   PÄÄTÖSKURSSI: 3,72
+
+PVM: 04.06.2020   PÄÄTÖSKURSSI: 4,18
+
+PVM: 05.06.2020   PÄÄTÖSKURSSI: 4,18
+
+PVM: 08.06.2020   PÄÄTÖSKURSSI: 4,00
+
+PVM: 09.06.2020   PÄÄTÖSKURSSI: 4,00
+
+PVM: 10.06.2020   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 11.06.2020   PÄÄTÖSKURSSI: 3,98
+
+PVM: 12.06.2020   PÄÄTÖSKURSSI: 3,98
+
+PVM: 15.06.2020   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 16.06.2020   PÄÄTÖSKURSSI: 3,68
+
+PVM: 17.06.2020   PÄÄTÖSKURSSI: 3,72
+
+PVM: 18.06.2020   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 22.06.2020   PÄÄTÖSKURSSI: 3,62
+
+PVM: 23.06.2020   PÄÄTÖSKURSSI: 3,50
+
+PVM: 24.06.2020   PÄÄTÖSKURSSI: 3,78
+
+PVM: 25.06.2020   PÄÄTÖSKURSSI: 3,52
+
+PVM: 26.06.2020   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 29.06.2020   PÄÄTÖSKURSSI: 3,50
+
+PVM: 30.06.2020   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 01.07.2020   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 02.07.2020   PÄÄTÖSKURSSI: 3,60
+
+PVM: 03.07.2020   PÄÄTÖSKURSSI: 3,56
+
+PVM: 06.07.2020   PÄÄTÖSKURSSI: 3,64
+
+PVM: 07.07.2020   PÄÄTÖSKURSSI: 3,64
+
+PVM: 08.07.2020   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 09.07.2020   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 10.07.2020   PÄÄTÖSKURSSI: 3,68
+
+PVM: 13.07.2020   PÄÄTÖSKURSSI: 3,68
+
+PVM: 14.07.2020   PÄÄTÖSKURSSI: 3,50
+
+PVM: 15.07.2020   PÄÄTÖSKURSSI: 3,68
+
+PVM: 16.07.2020   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 17.07.2020   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 20.07.2020   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 21.07.2020   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 22.07.2020   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 23.07.2020   PÄÄTÖSKURSSI: 3,54
+
+PVM: 24.07.2020   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 27.07.2020   PÄÄTÖSKURSSI: 3,54
+
+PVM: 28.07.2020   PÄÄTÖSKURSSI: 3,54
+
+PVM: 29.07.2020   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 30.07.2020   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 31.07.2020   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 03.08.2020   PÄÄTÖSKURSSI: 3,52
+
+PVM: 04.08.2020   PÄÄTÖSKURSSI: 3,50
+
+PVM: 05.08.2020   PÄÄTÖSKURSSI: 3,50
+
+PVM: 06.08.2020   PÄÄTÖSKURSSI: 3,50
+
+PVM: 07.08.2020   PÄÄTÖSKURSSI: 3,48
+
+PVM: 10.08.2020   PÄÄTÖSKURSSI: 3,60
+
+PVM: 11.08.2020   PÄÄTÖSKURSSI: 3,48
+
+PVM: 12.08.2020   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 13.08.2020   PÄÄTÖSKURSSI: 3,50
+
+PVM: 14.08.2020   PÄÄTÖSKURSSI: 3,54
+
+PVM: 17.08.2020   PÄÄTÖSKURSSI: 3,58
+
+PVM: 18.08.2020   PÄÄTÖSKURSSI: 3,48
+
+PVM: 19.08.2020   PÄÄTÖSKURSSI: 3,48
+
+PVM: 20.08.2020   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 21.08.2020   PÄÄTÖSKURSSI: 3,48
+
+PVM: 24.08.2020   PÄÄTÖSKURSSI: 3,56
+
+PVM: 25.08.2020   PÄÄTÖSKURSSI: 3,56
+
+PVM: 26.08.2020   PÄÄTÖSKURSSI: 3,48
+
+PVM: 27.08.2020   PÄÄTÖSKURSSI: 3,56
+
+PVM: 28.08.2020   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 31.08.2020   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 01.09.2020   PÄÄTÖSKURSSI: 3,42
+
+PVM: 02.09.2020   PÄÄTÖSKURSSI: 3,56
+
+PVM: 03.09.2020   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 04.09.2020   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 07.09.2020   PÄÄTÖSKURSSI: 3,96
+
+PVM: 08.09.2020   PÄÄTÖSKURSSI: 3,90
+
+PVM: 09.09.2020   PÄÄTÖSKURSSI: 3,90
+
+PVM: 10.09.2020   PÄÄTÖSKURSSI: 4,32
+
+PVM: 11.09.2020   PÄÄTÖSKURSSI: 3,88
+
+PVM: 14.09.2020   PÄÄTÖSKURSSI: 3,80
+
+PVM: 15.09.2020   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 16.09.2020   PÄÄTÖSKURSSI: 3,96
+
+PVM: 17.09.2020   PÄÄTÖSKURSSI: 4,12
+
+PVM: 18.09.2020   PÄÄTÖSKURSSI: 4,24
+
+PVM: 21.09.2020   PÄÄTÖSKURSSI: 3,90
+
+PVM: 22.09.2020   PÄÄTÖSKURSSI: 3,80
+
+PVM: 23.09.2020   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 24.09.2020   PÄÄTÖSKURSSI: 3,74
+
+PVM: 25.09.2020   PÄÄTÖSKURSSI: 3,74
+
+PVM: 28.09.2020   PÄÄTÖSKURSSI: 3,74
+
+PVM: 29.09.2020   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 30.09.2020   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 01.10.2020   PÄÄTÖSKURSSI: 3,74
+
+PVM: 02.10.2020   PÄÄTÖSKURSSI: 3,74
+
+PVM: 05.10.2020   PÄÄTÖSKURSSI: 3,78
+
+PVM: 06.10.2020   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 07.10.2020   PÄÄTÖSKURSSI: 3,76
+
+PVM: 08.10.2020   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 09.10.2020   PÄÄTÖSKURSSI: 3,86
+
+PVM: 12.10.2020   PÄÄTÖSKURSSI: 3,90
+
+PVM: 13.10.2020   PÄÄTÖSKURSSI: 3,90
+
+PVM: 14.10.2020   PÄÄTÖSKURSSI: 3,88
+
+PVM: 15.10.2020   PÄÄTÖSKURSSI: 3,80
+
+PVM: 16.10.2020   PÄÄTÖSKURSSI: 3,76
+
+PVM: 19.10.2020   PÄÄTÖSKURSSI: 3,76
+
+PVM: 20.10.2020   PÄÄTÖSKURSSI: 3,76
+
+PVM: 21.10.2020   PÄÄTÖSKURSSI: 3,76
+
+PVM: 22.10.2020   PÄÄTÖSKURSSI: 3,78
+
+PVM: 23.10.2020   PÄÄTÖSKURSSI: 3,76
+
+PVM: 26.10.2020   PÄÄTÖSKURSSI: 3,78
+
+PVM: 27.10.2020   PÄÄTÖSKURSSI: 3,76
+
+PVM: 28.10.2020   PÄÄTÖSKURSSI: 4,08
+
+PVM: 29.10.2020   PÄÄTÖSKURSSI: No data avialable
+
+PVM: 30.10.2020   PÄÄTÖSKURSSI: 3,66
+
+PVM: 02.11.2020   PÄÄTÖSKURSSI: 3,72
+
+PVM: 03.11.2020   PÄÄTÖSKURSSI: 3,88
+

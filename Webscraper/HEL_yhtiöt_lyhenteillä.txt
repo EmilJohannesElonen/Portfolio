@@ -1,0 +1,140 @@
+Afarak Group/AFAGR
+Ahlstrom-Munksjö/AM1
+Aktia Pankki A/AKTIA
+Alma Media/ALMA
+Altia/ALTIA
+Apetit/APETIT
+Aspo/ASPO
+Aspocomp Group/ACG1V
+Atria A/ATRAV
+Basware/BAS1V
+Biohit B/BIOBV
+Bittium/BITTI
+CapMan/CAPMAN
+Cargotec/CGCBV
+Caverion/CAV1V
+Citycon/CTY1S
+Componenta/CTH1V
+Consti/CONSTI
+Digia/DIGIA
+Digitalist Group/DIGIGR
+Dovre Group/DOV1V
+EAB Group/EAB
+Eezy/EEZY
+Elecster A/ELEAV
+Elisa/ELISA
+Endomines/ENDOM
+Enedo/ENEDO
+Enento Group/ENENTO
+eQ/EQV1V
+Ericsson B/ERIBR
+Etteplan/ETTE
+Evli Pankki/EVLI
+Exel Composites/EXL1V
+F-Secure/FSC1V
+Finnair/FIA1S
+Fiskars A/FSKRS
+Fortum/FORTUM
+Glaston/GLA1V
+Harvia/HARVIA
+HKScan A/HKSAV
+Honkarakenne B/HONBS
+Huhtamäki/HUH1V
+Ilkka-Yhtymä 1/ILK1S
+Ilkka-Yhtymä 2/ILK2S
+Incap/ICP1V
+Innofactor/IFA1V
+Investors House/INVEST
+Kamux/KAMUX
+Kemira/KEMIRA
+Keskisuomalainen A/KSLAV
+Kesko A/KESKOA
+Kesko B/KESKOB
+Kesla A/KELAS
+Kojamo/KOJAMO
+Kone/KNEBV
+Konecranes/KCR
+Lassila & Tikanoja/LAT1V
+Lehto Group/LEHTO
+Marimekko/MMO1V
+Martela A/MARAS
+Metso Outotec/MOCORP
+Metsä Board A/METSA
+Metsä Board B/METSB
+Musti Group/MUSTI
+Neles/NELES
+Neo Industrial/NEO1V
+Neste/NESTE
+Nixu/NIXU
+NoHo Partners/NOHO
+Nokia/NOKIA
+Nokian Renkaat/TYRES
+Nordea Bank/NDA%20FI
+Nurminen Logistics/NLG1V
+Olvi A/OLVAS
+Oma Säästöpankki/OMASP
+Optomed/OPTOMED
+Oriola A/OKDAV
+Oriola B/OKDBV
+Orion A/ORNAV
+Orion B/ORNBV
+Outokumpu/OUT1V
+Ovaro Kiinteistösijoitus/OVARO
+Panostaja/PNA1V
+Pihlajalinna/PIHLIS
+Ponsse/PON1V
+PunaMusta Media/PUMU
+QPR Software/QPR1V
+Qt Group/QTCOM
+Raisio K/RAIKV
+Raisio V/RAIVV
+Rapala VMC/RAP1V
+Raute A/RAUTE
+Revenio Group/REG1V
+Robit/ROBIT
+Rovio/ROVIO
+Saga Furs C/SAGCV
+Sampo A/SAMPO
+Sanoma/SAA1V
+Scanfil/SCANFL
+Sievi Capital/SIEVI
+Siili Solutions/SIILI
+Solteq/SOLTEQ
+Soprano/SOPRA
+Sotkamo Silver/SOSI1
+SRV Yhtiöt/SRV1V
+SSAB A/SSABAH
+SSAB B/SSABBH
+SSH Communications Security/SSH1V
+Stockmann A/STCAS
+Stockmann B/STCBV
+Stora Enso A/STEAV
+Stora Enso R/STERV
+Suominen/SUY1V
+Taaleri/TAALA
+Talenom/TNOM
+Tallink Grupp/TALLINK
+Tecnotree/TEM1V
+Teleste/TLT1V
+Telia Company/TELIA1
+Terveystalo/TTALO
+TietoEVRY/TIETO
+Tikkurila/TIK1V
+Tokmanni Group/TOKMAN
+Trainers´ House/TRH1V
+Tulikivi A/TULAV
+United Bankers/UNIAV
+UPM-Kymmene/UPM
+Uponor/UPONOR
+Uutechnic Group/UUTEC
+Vaisala A/VAIAS
+Valmet/VALMT
+Valoe/VALOE
+Verkkokauppa.com/VERK
+Viking Line/VIK1V
+Wulff Group/WUF1V
+Wärtsilä B/WRT1V
+YIT/YIT
+Yleiselektroniikka/YEINT
+Ålandsbanken A/ALBAV
+Ålandsbanken B/ALBBV
