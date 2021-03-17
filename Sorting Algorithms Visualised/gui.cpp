@@ -94,10 +94,9 @@ void GUI::initFittedBars(std::vector<int> *values)
     int amount = values->size();
     int pixelsPer = 600/amount;
     int leftOver = 600%amount;
-    float extraPixPerBar = static_cast<float>(leftOver)/static_cast<float>(amount);
     float everyNthBar = 0;
     if(leftOver != 0) {
-        everyNthBar = 1/extraPixPerBar;
+        everyNthBar = static_cast<float>(amount)/static_cast<float>(leftOver+1);
     }
     float nextSpace = everyNthBar;
     int a = 1;
@@ -105,9 +104,10 @@ void GUI::initFittedBars(std::vector<int> *values)
     int extrasInserted = 0;
     for(int i = 0; i < amount; i++) {
         int val = values->at(i);
-        if(a == static_cast<int>(nextSpace)) {
+        if(a == static_cast<int>(nextSpace) && leftOver > 0) {
             extra = -1;
             nextSpace += everyNthBar;
+            leftOver--;
         } else {
             extra = -2;
         }
