@@ -18,11 +18,15 @@ public:
 
     void bubbleSort();
 
+    void coctailShakerSort();
+
     void mergeSort();
 
     void quickSort(int min, int max);
 
     void radixSort();
+
+    void heapSort();
 
     void swapValues(int idx1, int idx2);
 
@@ -34,6 +38,8 @@ public:
      * @details if num doesn't have n digits, zero is returned
      */
     int getDigit(int num, int n);
+
+    void heapify(int i, int heapsize);
 
 public slots:
     void beginSorting(QString algorithm);

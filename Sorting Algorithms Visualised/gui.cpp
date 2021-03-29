@@ -18,7 +18,6 @@ GUI::GUI(QWidget *parent)
     , secBrush_(QBrush(Qt::blue))
     , triBrush_(QBrush(Qt::red))
     , checkBrush_(QBrush(Qt::green))
-    , delay_(10)
 {
     ui->setupUi(this);
     ui->graphicsView->setGeometry(BORDER_UP,BORDER_LEFT,VIEW_WIDTH,VIEW_HEIGHT);
@@ -31,7 +30,12 @@ GUI::GUI(QWidget *parent)
     ui->barCount->setMaximum(300);
     ui->barCount->setMinimum(2);
     ui->barCount->setValue(300);
-    rbuttons_ = {ui->bubbleSort, ui->mergeSort, ui->quickSort, ui->radixSort};
+    ui->delayBox->setMaximum(1000);
+    ui->delayBox->setMinimum(1);
+    ui->delayBox->setValue(5);
+    delay_ = ui->delayBox->value();
+
+    rbuttons_ = {ui->bubbleSort, ui->mergeSort, ui->quickSort, ui->radixSort, ui->coctailShakerSort, ui->heapSort};
 
     connect(ui->sortButton, &QPushButton::pressed, this, &GUI::sortRouter);
     connect(ui->shuffleButton, &QPushButton::pressed, this, &GUI::shuffleRouter);
@@ -44,7 +48,7 @@ GUI::~GUI()
 
 bool GUI::swap(int idx1, int idx2)
 {
-    if(idx1 >= bars_.size() || idx2 >= bars_.size()) {
+    if((unsigned)idx1 >= bars_.size() || (unsigned)idx2 >= bars_.size()) {
         return false;
     }
 
@@ -124,6 +128,7 @@ bool GUI::checkSorted()
 {
     bars_.at(0)->setPen(checkPen_);
     bars_.at(0)->setBrush(checkBrush_);
+    delay(delay_);
     for(std::vector<QGraphicsRectItem*>::size_type i = 1;
         i < bars_.size(); i++) {
         if(getValue(i) > getValue(i-1)) {
@@ -139,6 +144,8 @@ bool GUI::checkSorted()
     ui->shuffleButton->setEnabled(true);
     ui->sortButton->setEnabled(true);
     ui->barCount->setEnabled(true);
+    ui->fitCheckBox->setEnabled(true);
+    ui->delayBox->setEnabled(true);
     for(auto rbutton : rbuttons_) {
         rbutton->setEnabled(true);
     }
@@ -181,6 +188,8 @@ void GUI::sortRouter()
     ui->shuffleButton->setEnabled(false);
     ui->sortButton->setEnabled(false);
     ui->barCount->setEnabled(false);
+    ui->fitCheckBox->setEnabled(false);
+    ui->delayBox->setEnabled(false);
     QString text;
     for(auto rbutton : rbuttons_) {
         if(rbutton->isChecked()) {
@@ -188,6 +197,7 @@ void GUI::sortRouter()
         }
         rbutton->setEnabled(false);
     }
+    delay_ = ui->delayBox->value();
 
     emit wannaSort(text);
 }

@@ -16,9 +16,10 @@ void LogicEngine::setUi(GUI *ui)
 void LogicEngine::bubbleSort()
 {
     int swaps = 1;
+    int breaker = values_.size()-1;
     while(swaps != 0) {
         swaps = 0;
-        for(int i = 0; i < 199; i++) {
+        for(int i = 0; i < breaker; i++) {
             if(values_.at(i) > values_.at(i+1)) {
                 int val = values_.at(i+1);
                 values_.at(i+1) = values_.at(i);
@@ -28,6 +29,42 @@ void LogicEngine::bubbleSort()
                 swaps++;
             }
         }
+        breaker--;
+    }
+}
+
+void LogicEngine::coctailShakerSort()
+{
+    int swaps = 1;
+    int breakerMax = values_.size()-1;
+    int breakerMin = 0;
+    while(swaps != 0) {
+        swaps = 0;
+        for(int i = breakerMin; i < breakerMax; i++) {
+            if(values_.at(i) > values_.at(i+1)) {
+                int val = values_.at(i+1);
+                values_.at(i+1) = values_.at(i);
+                values_.at(i) = val;
+
+                ui_->swap(i, i+1);
+                swaps++;
+            }
+        }
+        breakerMax--;
+        if(swaps == 0) {
+            break;
+        }
+        for(int j = breakerMax; j > breakerMin; j--) {
+            if(values_.at(j) < values_.at(j-1)) {
+                int val = values_.at(j-1);
+                values_.at(j-1) = values_.at(j);
+                values_.at(j) = val;
+
+                ui_->swap(j, j-1);
+                swaps++;
+            }
+        }
+        breakerMin++;
     }
 }
 
@@ -186,6 +223,27 @@ void LogicEngine::radixSort() // Sorted container mustn't contain more than 3-di
 
 }
 
+void LogicEngine::heapSort()
+{
+    // Build heap
+    int heapsize = values_.size();
+    for(int i = heapsize / 2 - 1; i >= 0; i--) {
+        heapify(i, heapsize);
+    }
+
+    // Sort
+    for (int i = heapsize - 1; i > 0; i--) {
+        // Move current root to end
+        int val = values_.at(0);
+        values_.at(0) = values_.at(i);
+        values_.at(i) = val;
+        ui_->swap(0,i);
+
+        // call max heapify on the reduced heap
+        heapify(0, i);
+    }
+}
+
 void LogicEngine::swapValues(int idx1, int idx2)
 {
     int val = values_.at(idx1);
@@ -203,6 +261,33 @@ int LogicEngine::getDigit(int num, int n)
 
 }
 
+void LogicEngine::heapify(int i, int heapsize)
+{
+    int oldi = -1;
+    while(oldi != i) {
+        oldi = i;
+        int left = 2*i+1;
+        int right = 2*i+2;
+
+        if(left < heapsize) {
+            if(values_.at(left) > values_.at(i)) {
+                i = left;
+            }
+        }
+        if(right < heapsize) {
+            if(values_.at(right) > values_.at(i)) {
+                i = right;
+            }
+        }
+        if(i != oldi) {
+            int val = values_.at(oldi);
+            values_.at(oldi) = values_.at(i);
+            values_.at(i) = val;
+            ui_->swap(i, oldi);
+        }
+    }
+}
+
 void LogicEngine::beginSorting(QString algorithm)
 {
     if(algorithm == "Bubble sort") {
@@ -216,6 +301,13 @@ void LogicEngine::beginSorting(QString algorithm)
 
     } else if(algorithm == "Radix sort") {
         radixSort();
+
+    } else if(algorithm == "Coctail shaker sort") {
+        coctailShakerSort();
+
+    } else if(algorithm == "Heap sort") {
+        heapSort();
+
     }
 
     ui_->checkSorted();
