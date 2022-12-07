@@ -1,7 +1,7 @@
 This tool can be used to analyze history data for different stocks on the HEL stock market. 
 It was my first experience with webscraping and uses Selenium to gather the market data.
 
-It's tested to work with PyCharm 2020.2.5 and Pyhton 3.8, and requires urllib and selenium 
+It's tested to work with PyCharm 2020.2.5 and Python 3.8, and requires urllib and selenium 
 libraries. 
 
 Webscraper.py is used to create and update the database, and Analyzer.py is the actual tool
